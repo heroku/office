@@ -9,16 +9,18 @@
     fill-opacity: 0.2;
   }
 
-  .stairs, .bathroom, .elevator { fill: brown }
+  .room { fill: blue; }
+  .stairs, .bathroom, .elevator { fill: purple }
   .nothing { fill: black }
-  .room {
-    fill: purple;
-  }
 
 
-  rect:hover  {
+
+  .room:hover {
+    cursor: pointer;
     fill: orange;
     fill-opacity: 0.55;
+  }
+  rect:hover  {
   }
 
   .selected  {
