@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3004"
@@ -356,13 +357,116 @@
      inkscape:window-height="724"
      id="namedview3006"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="1030.216"
-     inkscape:cy="482.80208"
-     inkscape:window-x="-29"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="583.29914"
+     inkscape:cy="432.67888"
+     inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="icons"
+     style="display:inline"
+     sodipodi:insensitive="true"><g
+       transform="matrix(0.40582596,0,0,0.40582596,559.63032,437.48425)"
+       id="g5008"
+       class="icon icon_stairs"><path
+         inkscape:connector-curvature="0"
+         id="path3913"
+         d="M 95.936,93.019 H 76.557 75.235 v -1.32 -19.38 c 0,-0.728 -0.594,-1.321 -1.32,-1.321 h -19.642 -1.32 v -1.321 -19.38 c 0,-0.727 -0.594,-1.321 -1.322,-1.321 H 32.252 30.931 v -1.321 -19.6 c 0,-0.727 -0.595,-1.321 -1.321,-1.321 H 4.064 c -0.727,0 -1.321,0.594 -1.321,1.321 v 3.524 c 0,0.727 0.595,1.321 1.321,1.321 h 19.379 1.322 v 1.321 19.599 c 0,0.727 0.594,1.321 1.321,1.321 h 19.379 1.321 v 1.322 19.379 c 0,0.727 0.595,1.321 1.321,1.321 h 19.64 1.32 v 1.321 19.379 c 0,0.728 0.596,1.322 1.322,1.322 h 25.545 c 0.727,0 1.322,-0.595 1.322,-1.322 v -3.522 c 0.002,-0.728 -0.594,-1.322 -1.32,-1.322 z" /><circle
+         d="m 73.731003,7.9130001 c 0,3.9201169 -3.177883,7.0979999 -7.098,7.0979999 -3.920117,0 -7.098,-3.177883 -7.098,-7.0979999 0,-3.9201172 3.177883,-7.09800004 7.098,-7.09800004 3.920117,0 7.098,3.17788284 7.098,7.09800004 z"
+         sodipodi:ry="7.098"
+         sodipodi:rx="7.098"
+         sodipodi:cy="7.9130001"
+         sodipodi:cx="66.633003"
+         id="circle3915"
+         r="7.098"
+         cy="7.9130001"
+         cx="66.633003" /><path
+         inkscape:connector-curvature="0"
+         id="path3917"
+         d="m 51.119,26.215 6.449,3.559 6.449,3.558 c 0.637,0.351 1.51,0.159 1.939,-0.427 l 1.51,-2.059 2.293,-3.124 1.703,5.377 1.305,4.117 v 0 l 0.4,1.259 -6.27,3.895 -5.146,3.196 c -0.619,0.384 -1.123,1.292 -1.123,2.019 l 0.004,9.177 v 9.179 c 0,0.727 0.596,1.32 1.322,1.32 h 1.982 l 1.982,-10e-4 c 0.727,0 1.32,-0.595 1.32,-1.321 l -0.002,-7.337 -0.002,-8.66 3.703,-2.245 2.572,-1.56 h 0.002 l 1.129,-0.685 4.098,14.114 0.072,0.251 c 0.203,0.697 0.875,1.578 1.496,1.956 l 6.246,3.806 6.246,3.807 c 0.619,0.378 1.438,0.18 1.816,-0.44 l 2.062,-3.386 c 0.377,-0.62 0.18,-1.437 -0.441,-1.815 l -5.043,-3.073 -5.041,-3.073 c -0.002,0 -0.002,0 -0.002,0 L 85.022,56.912 80.374,40.804 76.093,25.966 c 0,-0.001 0,-0.001 0,-0.002 l -0.365,-1.267 1.301,0.227 0,0 1.441,0.25 2.744,0.477 2.25,5.142 1.721,3.931 c 0.291,0.666 1.074,0.972 1.74,0.681 l 1.814,-0.795 1.816,-0.794 c 0.666,-0.292 0.973,-1.075 0.682,-1.74 l -2.434,-5.558 -2.432,-5.557 c -0.293,-0.666 -1.117,-1.308 -1.834,-1.426 l -6.881,-1.138 -5.197,-0.86 c -1.9,-0.187 -3.713,0.501 -4.805,1.957 l -3.588,4.83 c 0,10e-4 -0.002,10e-4 -0.002,0.002 l -0.785,1.058 -5.064,-2.794 -3.908,-2.156 c -0.635,-0.351 -1.443,-0.118 -1.795,0.518 l -0.957,1.737 -0.958,1.735 c -0.347,0.633 -0.114,1.44 0.522,1.791 z" /></g><use
+       x="0"
+       y="0"
+       xlink:href="#g5008"
+       id="use5044"
+       transform="translate(-407,87)"
+       width="1530"
+       height="990" /><use
+       x="0"
+       y="0"
+       xlink:href="#g5008"
+       id="use5046"
+       transform="translate(464,113)"
+       width="1530"
+       height="990" /><use
+       x="0"
+       y="0"
+       xlink:href="#use5046"
+       id="use5048"
+       transform="translate(281,0)"
+       width="1530"
+       height="990" /><g
+       transform="matrix(0.41814697,0,0,0.41814697,607.0927,526.99992)"
+       id="Your_Icon"
+       class="icon icon_elevator"><path
+         inkscape:connector-curvature="0"
+         d="m 38.38,85.586 h -7.52 c -2.595,0 -4.708,-2.112 -4.708,-4.711 V 19.606 c 0,-2.597 2.113,-4.71 4.708,-4.71 h 7.52 c 1.481,0 2.685,-1.202 2.685,-2.685 0,-1.482 -1.203,-2.685 -2.685,-2.685 h -7.52 c -5.557,0 -10.077,4.522 -10.077,10.079 v 61.269 c 0,5.558 4.521,10.08 10.077,10.08 h 7.52 c 1.481,0 2.685,-1.203 2.685,-2.685 -10e-4,-1.482 -1.204,-2.683 -2.685,-2.683 z"
+         id="path6127" /><path
+         inkscape:connector-curvature="0"
+         d="M 69.137,9.527 H 61.62 c -1.483,0 -2.685,1.202 -2.685,2.685 0,1.483 1.201,2.685 2.685,2.685 h 7.517 c 2.598,0 4.711,2.113 4.711,4.71 v 61.269 c 0,2.599 -2.113,4.711 -4.711,4.711 H 61.62 c -1.483,0 -2.685,1.201 -2.685,2.685 0,1.481 1.201,2.685 2.685,2.685 h 7.517 c 5.558,0 10.08,-4.522 10.08,-10.08 V 19.606 c 0,-5.557 -4.523,-10.079 -10.08,-10.079 z"
+         id="path6129" /><path
+         inkscape:connector-curvature="0"
+         d="M 60.136,52.59 V 39.191 c 0,-2.918 -2.232,-5.773 -5.599,-5.773 l -9.142,-0.006 c -3.067,0 -5.532,2.535 -5.532,5.698 v 13.48 c 0,2.621 3.78,2.621 3.78,0 V 40.264 h 0.896 v 34.154 c 0,3.503 5.036,3.4 5.036,0 V 54.423 h 0.865 v 19.995 c 0,3.4 5.065,3.503 5.065,0 V 40.264 h 0.873 V 52.59 c 0.002,2.64 3.764,2.64 3.758,0 z"
+         id="path6131" /><circle
+         d="m 54.346002,27.83 c 0,2.405752 -1.950248,4.356 -4.356,4.356 -2.405753,0 -4.356,-1.950248 -4.356,-4.356 0,-2.405752 1.950247,-4.356 4.356,-4.356 2.405752,0 4.356,1.950248 4.356,4.356 z"
+         sodipodi:ry="4.3559999"
+         sodipodi:rx="4.3559999"
+         sodipodi:cy="27.83"
+         sodipodi:cx="49.990002"
+         cx="49.990002"
+         cy="27.83"
+         r="4.3559999"
+         id="circle6133" /><path
+         inkscape:connector-curvature="0"
+         d="m 44.718,8.638 h 2.597 v 4.659 c 0,1.484 1.203,2.685 2.685,2.685 1.483,0 2.685,-1.201 2.685,-2.685 V 8.638 h 2.598 c 0.004,-10e-4 0.01,-10e-4 0.014,0 0.927,0 1.678,-0.752 1.678,-1.678 0,-0.528 -0.244,-0.999 -0.624,-1.307 L 51.189,0.491 c -0.655,-0.656 -1.718,-0.656 -2.373,0 l -5.282,5.281 c -0.479,0.479 -0.624,1.202 -0.364,1.83 0.257,0.627 0.87,1.036 1.548,1.036 z"
+         id="path6135" /><path
+         inkscape:connector-curvature="0"
+         d="m 55.281,91.361 h -2.598 v -4.658 c 0,-1.484 -1.201,-2.685 -2.685,-2.685 -1.481,0 -2.685,1.2 -2.685,2.685 v 4.658 h -2.597 c -0.678,0 -1.291,0.409 -1.551,1.036 -0.26,0.628 -0.115,1.35 0.364,1.83 l 5.282,5.281 c 0.331,0.328 0.759,0.492 1.188,0.492 0.43,0 0.859,-0.164 1.188,-0.491 l 5.281,-5.281 c 0.479,-0.48 0.622,-1.202 0.363,-1.83 -0.26,-0.627 -0.871,-1.037 -1.55,-1.037 z"
+         id="path6137" /></g><use
+       x="0"
+       y="0"
+       xlink:href="#Your_Icon"
+       id="use6181"
+       transform="translate(0,50)"
+       width="1530"
+       height="990" /><use
+       x="0"
+       y="0"
+       xlink:href="#use6181"
+       id="use6183"
+       transform="translate(671,-107)"
+       width="1530"
+       height="990" /><g
+       transform="matrix(0.66218343,0,0,0.66218343,492.36719,536.86927)"
+       id="Your_Icon-8"><path
+         inkscape:connector-curvature="0"
+         d="m 59.059,77.211 c -0.246,0 -0.492,-0.041 -0.731,-0.123 l -7.904,-2.719 -8.458,2.732 c -0.548,0.18 -1.146,0.139 -1.673,-0.117 l -5.142,-2.49 -5.137,2.49 c -0.305,0.149 -0.642,0.227 -0.98,0.227 H 17.311 c -1.242,0 -2.25,-1.008 -2.25,-2.25 V 45.734 c 0,-1.242 1.008,-2.25 2.25,-2.25 1.242,0 2.25,1.008 2.25,2.25 v 26.977 h 8.957 l 5.65,-2.74 c 0.615,-0.299 1.336,-0.301 1.963,0 l 5.309,2.57 8.314,-2.688 c 0.467,-0.148 0.964,-0.144 1.424,0.016 l 5.549,1.91 -0.668,-25.963 c 0,-12.994 8.471,-23.027 15.756,-23.027 1.242,0 2.25,1.008 2.25,2.25 0,1.242 -1.008,2.25 -2.25,2.25 -4.531,0 -11.256,7.754 -11.256,18.469 l 0.75,29.145 c 0.019,0.738 -0.324,1.438 -0.92,1.871 -0.39,0.287 -0.859,0.437 -1.33,0.437 z"
+         id="path6881" /><path
+         inkscape:connector-curvature="0"
+         d="m 71.814,68.721 c -1.242,0 -2.25,-1.008 -2.25,-2.25 0,-1.242 1.008,-2.25 2.25,-2.25 4.166,0 8.625,-7.41 8.625,-18.438 0,-10.898 -4.547,-18.492 -8.625,-18.492 H 28.466 c -4.213,0 -8.905,7.576 -8.905,18.444 0,1.242 -1.009,2.25 -2.25,2.25 -1.242,0 -2.25,-1.008 -2.25,-2.25 0,-12.866 5.889,-22.944 13.405,-22.944 h 43.349 c 7.481,0 13.125,9.885 13.125,22.992 -0.001,13.076 -5.643,22.938 -13.126,22.938 z"
+         id="path6883" /><path
+         inkscape:connector-curvature="0"
+         d="m 70.855,58.25 c -2.732,0 -5.674,-3.121 -5.674,-9.973 0,-8.008 2.174,-12.979 5.674,-12.979 3.627,0 5.522,5.769 5.522,11.468 0.002,5.707 -1.895,11.484 -5.522,11.484 z M 70.821,40.645 c -0.52,1.213 -1.14,3.597 -1.14,7.633 0,2.666 0.553,4.209 0.986,4.964 0.539,-1.107 1.21,-3.386 1.21,-6.476 0.002,-2.799 -0.552,-4.926 -1.056,-6.121 z"
+         id="path6885" /></g><use
+       x="0"
+       y="0"
+       xlink:href="#Your_Icon-8"
+       id="use6920"
+       transform="translate(58,0)"
+       width="1530"
+       height="990" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="labels"
@@ -377,6 +481,7 @@
      sodipodi:role="line"
      id="tspan89914">MARKETING &amp; BD</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,450.52912,391.53725)"
@@ -386,6 +491,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan89926">PLATFORM AREA 1</tspan></text>
+
 
 <text
    style="font-size:15px;display:inline"
@@ -398,6 +504,7 @@
      sodipodi:role="line"
      id="tspan89976">APPLE </tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,105.50825,504.30275)"
@@ -408,6 +515,7 @@
      sodipodi:role="line"
      id="tspan90046">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,241.73137,488.31137)"
@@ -416,6 +524,7 @@
      x="0"
      y="0"
      id="tspan90080">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -426,6 +535,7 @@
      y="0"
      id="tspan90084">0</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,256.59888,488.31137)"
@@ -434,6 +544,7 @@
      x="0"
      y="0"
      id="tspan90088">7</tspan></text>
+
 
 <text
    style="display:inline"
@@ -445,6 +556,7 @@
      sodipodi:role="line"
      id="tspan90092">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,355.3105,380.563)"
@@ -454,6 +566,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan90872">06</tspan></text>
+
 
 <text
    style="display:inline"
@@ -465,6 +578,7 @@
      sodipodi:role="line"
      id="tspan90876">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,113.30325,487.80275)"
@@ -473,6 +587,7 @@
      x="0"
      y="0"
      id="tspan90034">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -488,6 +603,7 @@
      sodipodi:role="line"
      id="tspan90060">PHONE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,127.59438,586.13425)"
@@ -496,6 +612,7 @@
      x="0"
      y="0"
      id="tspan90072">3</tspan></text>
+
 
 <text
    style="display:inline"
@@ -506,6 +623,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan90076">CONF</tspan></text>
+
 
 <text
    style="display:inline"
@@ -521,6 +639,7 @@
      sodipodi:role="line"
      id="tspan90106">PHONE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,245.79988,545.52475)"
@@ -529,6 +648,7 @@
      x="0"
      y="0"
      id="tspan90114">0</tspan></text>
+
 
 <text
    style="display:inline"
@@ -540,6 +660,7 @@
      sodipodi:role="line"
      id="tspan90124">210</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,209.58,613.84212)"
@@ -550,6 +671,7 @@
      sodipodi:role="line"
      id="tspan90128">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,120.737,487.80275)"
@@ -558,6 +680,7 @@
      x="0"
      y="0"
      id="tspan90038">0</tspan></text>
+
 
 <text
    style="display:inline"
@@ -568,6 +691,7 @@
      y="0"
      id="tspan90042">1</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,125.11838,535.823)"
@@ -576,6 +700,7 @@
      x="0"
      y="0"
      id="tspan90054">0</tspan></text>
+
 
 <text
    style="display:inline"
@@ -586,6 +711,7 @@
      y="0"
      id="tspan90868">2</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,120.46463,535.823)"
@@ -594,6 +720,7 @@
      x="0"
      y="0"
      id="tspan90050">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -604,6 +731,7 @@
      y="0"
      id="tspan90064">2</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,120.16063,586.13425)"
@@ -612,6 +740,7 @@
      x="0"
      y="0"
      id="tspan90068">0</tspan></text>
+
 
 <text
    style="display:inline"
@@ -622,6 +751,7 @@
      y="0"
      id="tspan90100">0</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(0,1.25,-1.25,0,216.2675,541.92125)"
@@ -630,6 +760,7 @@
      x="0"
      y="0"
      id="tspan90096">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -645,6 +776,7 @@
      sodipodi:role="line"
      id="tspan90120">PHONE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,241.14612,545.52475)"
@@ -653,6 +785,7 @@
      x="0"
      y="0"
      id="tspan90110">2</tspan></text>
+
 
 <g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -666,6 +799,7 @@
      x="0 7.0510001 14.102 20.603001 27.653999"
      style="font-size:10px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">BREAK</tspan></text>
 
+
 <text
    id="text90012"
    transform="matrix(1,0,0,-1,463.517,331.61)"><tspan
@@ -674,6 +808,7 @@
      y="0"
      x="0 5.941 12.992 19.493"
      style="font-size:10px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">FAST</tspan></text>
+
 
 </g><g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -687,6 +822,7 @@
      x="0 5.947"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">24</tspan></text>
 
+
 <text
    id="text90886"
    transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
@@ -695,6 +831,7 @@
      y="0"
      x="0 7.787003 16.162001 23.949003"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CONF</tspan></text>
+
 
 </g><g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -708,6 +845,7 @@
      x="0 3.723 7.4460001 11.169"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">225 </tspan></text>
 
+
 <text
    id="text90894"
    transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
@@ -716,6 +854,7 @@
      y="0"
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 
 </g><text
    style="display:inline"
@@ -726,6 +865,7 @@
      y="0"
      id="tspan90880">2</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,831.06175,365.1275)"
@@ -734,6 +874,7 @@
      x="0"
      y="0"
      id="tspan90970">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -745,6 +886,7 @@
      sodipodi:role="line"
      id="tspan90974">31</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,823.258,381.6275)"
@@ -754,6 +896,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan90978">CONF</tspan></text>
+
 
 <text
    style="display:inline"
@@ -765,6 +908,7 @@
      sodipodi:role="line"
      id="tspan90904">26</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,749.62137,448.71862)"
@@ -775,6 +919,7 @@
      sodipodi:role="line"
      id="tspan90908">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,757.42512,432.21862)"
@@ -783,6 +928,7 @@
      x="0"
      y="0"
      id="tspan90900">2</tspan></text>
+
 
 <g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -795,6 +941,7 @@
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">2</tspan></text>
 
+
 <text
    id="text90914"
    transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
@@ -803,6 +950,7 @@
      y="0"
      x="0 5.947"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">27</tspan></text>
+
 
 <text
    id="text90918"
@@ -813,6 +961,7 @@
      x="0 7.7729998 16.162001"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CON</tspan></text>
 
+
 <text
    id="text90922"
    transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
@@ -820,6 +969,7 @@
      y="0"
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">F</tspan></text>
+
 
 </g><g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -838,6 +988,7 @@
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">2</tspan></text>
 
+
 <text
    id="text90984"
    transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
@@ -851,6 +1002,7 @@
      y="13.2"
      x="-20.045 -13.493 -5.1040001 2.6689999 10.442 18.830999"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">LOUNGE</tspan></text>
+
 
 </g><g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -869,6 +1021,7 @@
      sodipodi:role="line"
      id="tspan90998">LOUNGE</tspan></text>
 
+
 </g><text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,828.42575,502.91825)"
@@ -877,6 +1030,7 @@
      x="0"
      y="0"
      id="tspan90992">2</tspan></text>
+
 
 <g
    transform="matrix(0,1.25,1.25,0,0,0)"
@@ -890,6 +1044,7 @@
      x="0 3.723"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">34</tspan></text>
 
+
 <text
    id="text91008"
    transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
@@ -899,6 +1054,7 @@
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
 
+
 </g><text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,900.0145,499.266)"
@@ -907,6 +1063,7 @@
      x="0"
      y="0"
      id="tspan91002">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -923,6 +1080,7 @@
      sodipodi:role="line"
      id="tspan90934">LOUNGE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,602.47975,678.621)"
@@ -931,6 +1089,7 @@
      x="0"
      y="0"
      id="tspan89934">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -942,6 +1101,7 @@
      sodipodi:role="line"
      id="tspan90018">LIBRARY</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,738.63787,673.33925)"
@@ -952,6 +1112,7 @@
      sodipodi:role="line"
      id="tspan90958">30</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,836.01662,604.01913)"
@@ -960,6 +1121,7 @@
      x="0"
      y="0"
      id="tspan91014">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -976,6 +1138,7 @@
      sodipodi:role="line"
      id="tspan91020">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,833.79,672.39262)"
@@ -984,6 +1147,7 @@
      x="0"
      y="0"
      id="tspan91024">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1000,6 +1164,7 @@
      sodipodi:role="line"
      id="tspan91030">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,904.33325,601.917)"
@@ -1008,6 +1173,7 @@
      x="0"
      y="0"
      id="tspan91034">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1019,6 +1185,7 @@
      sodipodi:role="line"
      id="tspan91038">37</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,896.392,612.417)"
@@ -1028,6 +1195,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan91042">PHONE</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1039,6 +1207,7 @@
      sodipodi:role="line"
      id="tspan89930">PLATFORM AREA </tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,345.19438,675.46387)"
@@ -1048,6 +1217,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan90380">212</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1059,6 +1229,7 @@
      sodipodi:role="line"
      id="tspan90384">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,701.4105,602.0045)"
@@ -1067,6 +1238,7 @@
      x="0"
      y="0"
      id="tspan90928">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1078,6 +1250,7 @@
      sodipodi:role="line"
      id="tspan90942">29</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,750.18012,624.7385)"
@@ -1088,6 +1261,7 @@
      sodipodi:role="line"
      id="tspan90946">CON</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,731.20412,673.33925)"
@@ -1096,6 +1270,7 @@
      x="0"
      y="0"
      id="tspan90954">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1107,6 +1282,7 @@
      sodipodi:role="line"
      id="tspan90962">CON</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,757.97637,608.2385)"
@@ -1115,6 +1291,7 @@
      x="0"
      y="0"
      id="tspan90938">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1125,6 +1302,7 @@
      y="0"
      id="tspan90950">F</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,753.33287,689.83925)"
@@ -1133,6 +1311,7 @@
      x="0"
      y="0"
      id="tspan90966">F</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1144,6 +1323,7 @@
      sodipodi:role="line"
      id="tspan89946">VAULT</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1315.0973,647.31112)"
@@ -1153,6 +1333,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan89956">LANGUAGES</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1174,6 +1355,7 @@
      sodipodi:role="line"
      id="tspan89964">ARCHITECTURE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1203.3228,580.79112)"
@@ -1189,6 +1371,7 @@
      sodipodi:role="line"
      id="tspan91076">OFFICE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1245.5193,681.87538)"
@@ -1197,6 +1380,7 @@
      x="0"
      y="0"
      id="tspan91080">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1208,6 +1392,7 @@
      sodipodi:role="line"
      id="tspan91084">48</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1237.713,698.37537)"
@@ -1217,6 +1402,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan91088">CONF</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1228,6 +1414,7 @@
      sodipodi:role="line"
      id="tspan91108">53</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1368.7129,539.97638)"
@@ -1237,6 +1424,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan91112">PHONE</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1248,6 +1436,7 @@
      sodipodi:role="line"
      id="tspan91120">54</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1386.1225,596.809)"
@@ -1258,6 +1447,7 @@
      sodipodi:role="line"
      id="tspan91124">PHONE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(0,1.25,-1.25,0,1179.2013,450.675)"
@@ -1267,6 +1457,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan89938">COFFEE/TEA</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1283,6 +1474,7 @@
      sodipodi:role="line"
      id="tspan89952">ADD ONS</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1223.1701,477.55288)"
@@ -1292,6 +1484,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan91062">42</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1303,6 +1496,7 @@
      sodipodi:role="line"
      id="tspan91066">PHONE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1197.279,580.79112)"
@@ -1311,6 +1505,7 @@
      x="0"
      y="0"
      id="tspan91070">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1322,6 +1517,7 @@
      sodipodi:role="line"
      id="tspan91096">52</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1375.1683,495.46525)"
@@ -1332,6 +1528,7 @@
      sodipodi:role="line"
      id="tspan91100">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1376.6554,529.47637)"
@@ -1341,6 +1538,7 @@
      y="0"
      id="tspan91104">2</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1394.065,586.309)"
@@ -1349,6 +1547,7 @@
      x="0"
      y="0"
      id="tspan91116">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1360,6 +1559,7 @@
      sodipodi:role="line"
      id="tspan89942">VIBE</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1158.6339,366.40975)"
@@ -1369,6 +1569,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan91050">40</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1380,6 +1581,7 @@
      sodipodi:role="line"
      id="tspan91054">CONF</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1382.9745,478.96525)"
@@ -1388,6 +1590,7 @@
      x="0"
      y="0"
      id="tspan91092">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1398,6 +1601,7 @@
      y="0"
      id="tspan91046">2</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,1218.5164,477.55288)"
@@ -1406,6 +1610,7 @@
      x="0"
      y="0"
      id="tspan91058">2</tspan></text>
+
 
 <text
    style="display:inline"
@@ -1417,6 +1622,7 @@
      sodipodi:role="line"
      id="tspan89918">PRODUCT</tspan></text>
 
+
 <text
    style="display:inline"
    transform="matrix(1.25,0,0,1.25,172.01325,683.3695)"
@@ -1427,19 +1633,19 @@
      sodipodi:role="line"
      id="tspan89922">&amp; WEB APPS</tspan></text>
 
+
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="trace"
-     style="display:inline"><rect
-       style="fill:#0000ff;fill-opacity:0.27053139;fill-rule:evenodd;stroke:none"
+     style="display:inline"
+     sodipodi:insensitive="true"><rect
        id="201"
        width="55.120922"
        height="64.767082"
        x="96.461617"
        y="456.01605"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="202"
        width="44.785755"
        height="35.139587"
@@ -1447,74 +1653,66 @@
        y="522.85016"
        transform="scale(-1,1)"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="203"
        width="53.053886"
        height="64.078072"
        x="97.150627"
        y="560.74579"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="207"
        width="51.675865"
        height="66.834122"
        x="226.6848"
        y="458.0831"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="209"
        width="42.029705"
        height="46.852783"
        x="227.37381"
        y="528.3623"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="210"
        width="61.322025"
        height="51.675865"
        x="197.0573"
        y="577.2821"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="stairs2l"
        width="41.340691"
        height="144.69243"
        x="152.27155"
        y="472.55234"
        class="stairs" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="206"
        width="86.126442"
        height="72.346214"
        x="314.18924"
        y="347.15222"
        class="room" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="apple"
        width="66.834122"
        height="45.474762"
        x="431.32123"
        y="436.72375"
        class="room misc" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="elec2"
        width="26.182438"
        height="44.096737"
        x="502.97842"
-       y="437.41275" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="437.41275"
+       class="nothing" /><rect
        id="stairs2c"
        width="113.6869"
        height="43.407726"
        x="531.91693"
-       y="438.10178" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="438.10178"
+       class="stairs" /><rect
        id="mystery1"
        width="50.986855"
        height="94.394577"
        x="445.10144"
-       y="523.53918" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="523.53918"
+       class="nothing" /><rect
        id="bath2w"
        width="55.809933"
        height="93.705566"
@@ -1522,212 +1720,186 @@
        y="-617.93378"
        transform="scale(1,-1)"
        class="bathroom" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="bath2m"
        width="58.565979"
-       height="91.638535"
+       height="93.05275"
        x="553.27625"
-       y="525.6062"
+       y="524.19202"
        class="bathroom" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="ele2n"
        width="34.450577"
        height="48.230808"
        x="611.84222"
-       y="524.91724" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="524.91724"
+       class="elevator" /><rect
        id="ele2s"
        width="34.450577"
        height="46.163773"
        x="611.84222"
-       y="573.83704" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="573.83704"
+       class="elevator" /><rect
        id="227"
        width="85.437431"
        height="70.279175"
        x="684.18848"
        y="469.7963"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="228"
        width="55.120922"
        height="72.346214"
        x="684.18848"
        y="567.63593"
        class="room lounge" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="229"
        width="59.944004"
        height="59.254993"
        x="739.99841"
        y="578.6601"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="235"
        width="84.05941"
        height="66.145103"
        x="806.14349"
        y="573.14801"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="237"
        width="37.895634"
        height="44.096737"
        x="892.26996"
        y="584.17218"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="234"
        width="50.29784"
        height="50.29784"
        x="880.55676"
        y="482.19852"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="223"
        width="75.791267"
        height="58.565979"
        x="806.14349"
        y="482.88751"
        class="room lounge" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="232"
        width="96.461563"
        height="64.76709"
        x="805.45447"
        y="415.36438"
        class="room lounge" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="231"
        width="84.059425"
        height="73.724243"
        x="802.69843"
        y="340.95114"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="226"
        width="66.834122"
        height="59.944004"
        x="736.55334"
        y="409.85229"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="225"
        width="41.340691"
        height="59.944004"
        x="694.52362"
        y="409.16327"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="224"
        width="94.394577"
        height="66.145103"
        x="708.99286"
        y="340.95114"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="stairs2main"
        width="169.49684"
        height="81.992371"
        x="963.2381"
        y="531.80731"
        class="stairs" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="240"
        width="110.93085"
        height="66.834122"
        x="1102.4185"
        y="341.64014"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="elefreight2"
        width="117.13196"
        height="64.767082"
        x="1242.9768"
        y="460.83914"
        class="elevator" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="mystery2"
-       width="97.839638"
+       width="79.83963"
        height="19.981335"
-       x="1265.7142"
-       y="530.42932" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       x="1283.7142"
+       y="530.42932"
+       class="nothing" /><rect
        id="stairs2r"
        width="111.61987"
        height="40.65168"
        x="1269.1592"
        y="551.7887"
        class="stairs" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="245"
        width="65.456093"
        height="53.053886"
        x="1174.0757"
        y="562.12384"
        class="room office" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="mystery3"
        width="32.383541"
        height="21.359358"
        x="1209.2152"
-       y="507.00293" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="507.00293"
+       class="nothing" /><rect
        id="242"
        width="31.69453"
        height="46.163773"
        x="1209.2152"
        y="458.0831"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="252"
        width="63.389061"
        height="53.053886"
        x="1362.1758"
        y="457.39407"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="253"
        width="50.29784"
        height="38.053886"
        x="1365.5538"
        y="512.51501"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="254"
        width="42.718716"
        height="58.986851"
        x="1382.1571"
        y="558.25793"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="mystery4"
        width="45.474762"
        height="19.981335"
        x="1299.5427"
-       y="594.5744" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
+       y="594.5744"
+       class="nothing" /><rect
        id="248"
        width="86.126442"
        height="63.389061"
        x="1211.9713"
        y="649.6283"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="236"
        width="81.992371"
        height="73.035225"
        x="804.07648"
        y="639.98212"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="230"
        width="110.24184"
        height="71.657196"
        x="694.52362"
        y="641.36017"
        class="room conf" /><rect
-       style="fill:#0000ff;fill-opacity:0.27053139"
        id="212"
        width="85.437431"
        height="63.389061"
@@ -1740,16 +1912,15 @@
        height="372.75525"
        x="41.340691"
        y="340.26212" /><rect
-       style="fill:#0000ff;fill-opacity:0.29468599;stroke:none"
        id="208"
        width="31.69453"
        height="45.474762"
        x="194.99026"
        y="529.05127"
        class="room phone" /><rect
-       style="fill:#0000ff;fill-opacity:0.29468599;stroke:none"
        id="mystery5"
        width="25"
        height="42"
        x="1242"
-       y="568" /></g></svg>
+       y="568"
+       class="nothing" /></g></svg>

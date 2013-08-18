@@ -4,12 +4,26 @@
   svg {
     zoom: 0.9
   }
-  .room:hover  {
-    fill: orange !important;
+
+  .room, .stairs, .nothing, .elevator, .bathroom {
+    fill-opacity: 0.2;
+  }
+
+  .stairs, .bathroom, .elevator { fill: brown }
+  .nothing { fill: black }
+  .room {
+    fill: purple;
+  }
+
+
+  rect:hover  {
+    fill: orange;
+    fill-opacity: 0.55;
   }
 
   .selected  {
     fill: red !important;
+    fill-opacity: 0.5;
   }
 </style>
 
