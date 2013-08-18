@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>Heroku Office</title>
 <style>
   svg {
     zoom: 0.9
@@ -51,6 +52,14 @@ $(window.location.hash).each(function() { this.classList.add('selected') })
 
 <div class='svgholder'> <!-- <img src='floor2.svg' class='svg'> -->
 <%= File.read('floor2.svg') %>
+</div>
+
+<div>
+  <a href='http://github.com/heroku/office'>svg office map</a> by <a href='http://bitfission.com'>Will Leinweber</a>.
+
+  <br><a href="http://thenounproject.com/noun/stairs/#icon-No5827" target="_blank">Stairs</a> designed by <a href="http://thenounproject.com/driskell" target="_blank">Nathan Driskell</a>,
+  <a href="http://thenounproject.com/noun/elevator/#icon-No20552" target="_blank">Elevator</a> designed by <a href="http://thenounproject.com/b4bb" target="_blank">Bohdan Burmich</a>,
+  and <a href="http://thenounproject.com/noun/toilet-paper/#icon-No15849" target="_blank">Toilet Paper</a> designed by <a href="http://thenounproject.com/joe_harrison" target="_blank">Joe Harrison</a> from The Noun Project
 </div>
 </body>
 </html>
