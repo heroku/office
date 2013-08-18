@@ -4454,8 +4454,8 @@
      id="namedview3006"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="46.422141"
-     inkscape:cy="261.5899"
+     inkscape:cx="915.38158"
+     inkscape:cy="632.03837"
      inkscape:window-x="24"
      inkscape:window-y="26"
      inkscape:window-maximized="0"
@@ -6455,7 +6455,7 @@
        y="842.61865"
        class="room lounge" /><rect
        id="229"
-       width="59.944019"
+       width="65.600876"
        height="59.254955"
        x="739.9986"
        y="853.64282"
@@ -6761,12 +6761,12 @@
        y="500.68427"
        transform="translate(39.340691,613.245)"
        class="nothing" /><rect
-       id="mystery8"
+       id="supplies"
        width="45.5"
        height="41"
        x="457.8407"
        y="1113.9293"
-       class="nothing" /><rect
+       class="room misc" /><rect
        id="130"
        width="84"
        height="58"
@@ -6801,7 +6801,7 @@
        x="1321"
        y="683.68427"
        transform="translate(39.340691,613.245)"
-       class="misc room nothing" /><rect
+       class="misc room" /><rect
        id="mystery9"
        width="44"
        height="25"
