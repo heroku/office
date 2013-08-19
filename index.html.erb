@@ -27,6 +27,14 @@
     fill-opacity: 0.5;
   }
 
+  #desc {
+    font-family: monospace;
+    white-space: pre;
+    position: absolute;
+    left: 575px;
+    top: 346px;
+  }
+
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -45,15 +53,36 @@ function addSVGClass(jqEl, className) {
 
 $(function(){
 
-
-$('.svgholder').on('click touchstart', '.room', function(e) {
+$('.svgholder').on('click touchstart', '.room', function() {
   $('.selected').each(function() { removeSVGClass($(this), 'selected') })
   addSVGClass($(this), 'selected')
   history.pushState({},'', "#" + this.id)
-
 })
 
-  $(window.location.hash).each(function() { addSVGClass($(this), 'selected') })
+$(window.location.hash).each(function() { addSVGClass($(this), 'selected') })
+
+var p3  = ' 3 people'
+var p4  = ' 4 people, couch'
+var p6  = ' 6 people, tv'
+var p10 = '10 people, tv'
+var descs = {
+  100: p6  , 102: p3  , 105: p3
+, 114: p6  , 115: p10 , 122: p4 , 124: p6 , 125: p10 , 129: '16 people , tv'
+, 130: p10 , 131: p10 , 201: p3
+, 203: p3  , 206: p6  , 207: p3
+, 210: p3  , 212: p6
+, 224: p6  , 226: p6  , 227: p4 , 229: p4
+, 230: p10 , 231: p6  , 235: p6 , 236: p6
+, 240: p10 , 248: p6
+, 252: p3
+}
+$('.svgholder').on('mouseover', '.conf', function() {
+  document.getElementById('desc').innerText =  this.id + ': ' + descs[this.id]
+})
+$('.svgholder').on('mouseout', '.conf', function() {
+  document.getElementById('desc').innerText = ''
+})
+
 
 
 
@@ -62,6 +91,7 @@ $('.svgholder').on('click touchstart', '.room', function(e) {
 </head>
 <body>
 
+<div id='desc'></div>
 <div class='svgholder'>
 <%= File.read('floor.svg') %>
 </div>
