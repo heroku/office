@@ -46,7 +46,7 @@ function addSVGClass(jqEl, className) {
 $(function(){
 
 
-$('.svgholder').on('click', '.room', function(e) {
+$('.svgholder').on('click touchstart', '.room', function(e) {
   $('.selected').each(function() { removeSVGClass($(this), 'selected') })
   addSVGClass($(this), 'selected')
   history.pushState({},'', "#" + this.id)
