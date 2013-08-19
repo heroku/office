@@ -59,7 +59,12 @@ $('.svgholder').on('click touchstart', '.room', function() {
   history.pushState({},'', "#" + this.id)
 })
 
-$(window.location.hash).each(function() { addSVGClass($(this), 'selected') })
+// I could not figure out how to get css3 animation to work on svgs :(
+firstSelected =  $(window.location.hash)
+var firstSelectedOn  = function() { addSVGClass(   firstSelected, 'selected') }
+var firstSelectedOff = function() { removeSVGClass(firstSelected, 'selected') }
+for(var i=50; i <= 500; i += 100) { setTimeout( firstSelectedOff, i) }
+for(var i=0;  i <= 500; i += 100) { setTimeout( firstSelectedOn, i) }
 
 var p3  = ' 3 people'
 var p4  = ' 4 people, couch'
