@@ -15,10 +15,19 @@
    width="1427.85"
    height="787.68427"
    xml:space="preserve"
-   sodipodi:docname="floor2.svg"><metadata
+   sodipodi:docname="floor.svg"><title
+     id="title626468">Heroku Office</title><metadata
      id="metadata3010"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Heroku Office</dc:title><dc:date>August 2013</dc:date><dc:creator><cc:Agent><dc:title>Will Leinweber</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title></dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Will Leinweber</dc:title></cc:Agent></dc:publisher><cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata><defs
      id="defs3008"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3020"><path
@@ -4448,17 +4457,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1379"
-     inkscape:window-height="726"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
      id="namedview3006"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="519.40178"
+     inkscape:cx="136.1499"
      inkscape:cy="518.90129"
-     inkscape:window-x="24"
-     inkscape:window-y="26"
+     inkscape:window-x="16"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3004"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -4836,6 +4845,7 @@
      id="tspan89914">MARKETING &amp; BD</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text89924"
@@ -4846,6 +4856,7 @@
      y="666.52039"
      sodipodi:role="line"
      id="tspan89926">PLATFORM AREA 1</tspan></text>
+
 
 
 <text
@@ -4860,6 +4871,7 @@
      id="tspan89976">APPLE </tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90044"
@@ -4870,6 +4882,7 @@
      y="779.28583"
      sodipodi:role="line"
      id="tspan90046">CONF</tspan></text>
+
 
 
 <text
@@ -4883,6 +4896,7 @@
      id="tspan90080">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90082"
@@ -4894,6 +4908,7 @@
      id="tspan90084">0</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90086"
@@ -4903,6 +4918,7 @@
      x="256.59882"
      y="763.29443"
      id="tspan90088">7</tspan></text>
+
 
 
 <text
@@ -4917,6 +4933,7 @@
      id="tspan90092">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90870"
@@ -4927,6 +4944,7 @@
      y="655.54614"
      sodipodi:role="line"
      id="tspan90872">06</tspan></text>
+
 
 
 <text
@@ -4941,6 +4959,7 @@
      id="tspan90876">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90032"
@@ -4950,6 +4969,7 @@
      x="113.30322"
      y="762.78583"
      id="tspan90034">2</tspan></text>
+
 
 
 <text
@@ -4968,6 +4988,7 @@
      id="tspan90060">PHONE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90070"
@@ -4977,6 +4998,7 @@
      x="127.59435"
      y="861.11731"
      id="tspan90072">3</tspan></text>
+
 
 
 <text
@@ -4989,6 +5011,7 @@
      y="877.61731"
      sodipodi:role="line"
      id="tspan90076">CONF</tspan></text>
+
 
 
 <text
@@ -5008,6 +5031,7 @@
      id="tspan90106">PHONE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90112"
@@ -5017,6 +5041,7 @@
      x="245.79982"
      y="820.50781"
      id="tspan90114">0</tspan></text>
+
 
 
 <text
@@ -5031,6 +5056,7 @@
      id="tspan90124">210</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90126"
@@ -5041,6 +5067,7 @@
      y="888.8252"
      sodipodi:role="line"
      id="tspan90128">CONF</tspan></text>
+
 
 
 <text
@@ -5054,6 +5081,7 @@
      id="tspan90038">0</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90040"
@@ -5063,6 +5091,7 @@
      x="128.17072"
      y="762.78583"
      id="tspan90042">1</tspan></text>
+
 
 
 <text
@@ -5076,6 +5105,7 @@
      id="tspan90054">0</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90866"
@@ -5085,6 +5115,7 @@
      x="347.87668"
      y="655.54614"
      id="tspan90868">2</tspan></text>
+
 
 
 <text
@@ -5098,6 +5129,7 @@
      id="tspan90050">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90062"
@@ -5109,6 +5141,7 @@
      id="tspan90064">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90066"
@@ -5118,6 +5151,7 @@
      x="120.16059"
      y="861.11731"
      id="tspan90068">0</tspan></text>
+
 
 
 <text
@@ -5132,6 +5166,7 @@
      id="tspan90100">0</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    transform="matrix(0,0.99999952,-1.0000005,0,0,0)"
@@ -5142,6 +5177,7 @@
      x="816.90442"
      y="-216.26744"
      id="tspan90096">2</tspan></text>
+
 
 
 <text
@@ -5160,6 +5196,7 @@
      id="tspan90120">PHONE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90108"
@@ -5169,6 +5206,7 @@
      x="241.14606"
      y="820.50781"
      id="tspan90110">2</tspan></text>
+
 
 
 <g
@@ -5184,6 +5222,7 @@
      style="font-size:10px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">BREAK</tspan></text>
 
 
+
 <text
    id="text90012"
    transform="matrix(1,0,0,-1,463.517,331.61)"><tspan
@@ -5192,6 +5231,7 @@
      y="0"
      x="0 5.941 12.992 19.493"
      style="font-size:10px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">FAST</tspan></text>
+
 
 
 </g><g
@@ -5207,6 +5247,7 @@
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">24</tspan></text>
 
 
+
 <text
    id="text90886"
    transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
@@ -5215,6 +5256,7 @@
      y="0"
      x="0 7.787003 16.162001 23.949003"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CONF</tspan></text>
+
 
 
 </g><g
@@ -5230,6 +5272,7 @@
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">225 </tspan></text>
 
 
+
 <text
    id="text90894"
    transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
@@ -5238,6 +5281,7 @@
      y="0"
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 
 
 </g><text
@@ -5251,6 +5295,7 @@
      id="tspan90880">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90968"
@@ -5260,6 +5305,7 @@
      x="831.06158"
      y="640.1106"
      id="tspan90970">2</tspan></text>
+
 
 
 <text
@@ -5274,6 +5320,7 @@
      id="tspan90974">31</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90976"
@@ -5284,6 +5331,7 @@
      y="656.6106"
      sodipodi:role="line"
      id="tspan90978">CONF</tspan></text>
+
 
 
 <text
@@ -5298,6 +5346,7 @@
      id="tspan90904">26</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90906"
@@ -5310,6 +5359,7 @@
      id="tspan90908">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90898"
@@ -5319,6 +5369,7 @@
      x="757.42493"
      y="707.20172"
      id="tspan90900">2</tspan></text>
+
 
 
 <g
@@ -5333,6 +5384,7 @@
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">2</tspan></text>
 
 
+
 <text
    id="text90914"
    transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
@@ -5341,6 +5393,7 @@
      y="0"
      x="0 5.947"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">27</tspan></text>
+
 
 
 <text
@@ -5353,6 +5406,7 @@
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CON</tspan></text>
 
 
+
 <text
    id="text90922"
    transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
@@ -5360,6 +5414,7 @@
      y="0"
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">F</tspan></text>
+
 
 
 </g><g
@@ -5380,6 +5435,7 @@
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">2</tspan></text>
 
 
+
 <text
    id="text90984"
    transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
@@ -5393,6 +5449,7 @@
      y="13.2"
      x="-20.045 -13.493 -5.1040001 2.6689999 10.442 18.830999"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">LOUNGE</tspan></text>
+
 
 
 </g><g
@@ -5413,6 +5470,7 @@
      id="tspan90998">LOUNGE</tspan></text>
 
 
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text90990"
@@ -5422,6 +5480,7 @@
      x="828.4256"
      y="777.90137"
      id="tspan90992">2</tspan></text>
+
 
 
 <g
@@ -5437,6 +5496,7 @@
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">34</tspan></text>
 
 
+
 <text
    id="text91008"
    transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
@@ -5445,6 +5505,7 @@
      y="0"
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 
 
 </g><text
@@ -5456,6 +5517,7 @@
      x="900.01428"
      y="774.24908"
      id="tspan91002">2</tspan></text>
+
 
 
 <text
@@ -5475,6 +5537,7 @@
      id="tspan90934">LOUNGE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text89932"
@@ -5484,6 +5547,7 @@
      x="602.47961"
      y="953.60406"
      id="tspan89934">2</tspan></text>
+
 
 
 <text
@@ -5498,6 +5562,7 @@
      id="tspan90018">LIBRARY</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90956"
@@ -5510,6 +5575,7 @@
      id="tspan90958">30</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91012"
@@ -5519,6 +5585,7 @@
      x="836.01642"
      y="879.0022"
      id="tspan91014">2</tspan></text>
+
 
 
 <text
@@ -5538,6 +5605,7 @@
      id="tspan91020">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91022"
@@ -5547,6 +5615,7 @@
      x="833.78979"
      y="947.37567"
      id="tspan91024">2</tspan></text>
+
 
 
 <text
@@ -5566,6 +5635,7 @@
      id="tspan91030">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91032"
@@ -5575,6 +5645,7 @@
      x="904.33307"
      y="876.90009"
      id="tspan91034">2</tspan></text>
+
 
 
 <text
@@ -5589,6 +5660,7 @@
      id="tspan91038">37</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91040"
@@ -5599,6 +5671,7 @@
      y="887.40009"
      sodipodi:role="line"
      id="tspan91042">PHONE</tspan></text>
+
 
 
 <text
@@ -5613,6 +5686,7 @@
      id="tspan89930">PLATFORM AREA </tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90378"
@@ -5623,6 +5697,7 @@
      y="950.4469"
      sodipodi:role="line"
      id="tspan90380">212</tspan></text>
+
 
 
 <text
@@ -5637,6 +5712,7 @@
      id="tspan90384">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90926"
@@ -5646,6 +5722,7 @@
      x="701.41034"
      y="876.98755"
      id="tspan90928">2</tspan></text>
+
 
 
 <text
@@ -5660,6 +5737,7 @@
      id="tspan90942">29</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90944"
@@ -5672,6 +5750,7 @@
      id="tspan90946">CON</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90952"
@@ -5681,6 +5760,7 @@
      x="731.20398"
      y="948.32233"
      id="tspan90954">2</tspan></text>
+
 
 
 <text
@@ -5695,6 +5775,7 @@
      id="tspan90962">CON</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90936"
@@ -5704,6 +5785,7 @@
      x="757.9762"
      y="883.22156"
      id="tspan90938">2</tspan></text>
+
 
 
 <text
@@ -5717,6 +5799,7 @@
      id="tspan90950">F</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90964"
@@ -5726,6 +5809,7 @@
      x="753.3327"
      y="964.82233"
      id="tspan90966">F</tspan></text>
+
 
 
 <text
@@ -5740,6 +5824,7 @@
      id="tspan89946">VAULT</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text89954"
@@ -5750,6 +5835,7 @@
      y="922.29419"
      sodipodi:role="line"
      id="tspan89956">LANGUAGES</tspan></text>
+
 
 
 <text
@@ -5774,6 +5860,7 @@
      id="tspan89964">ARCHITECTURE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91072"
@@ -5791,6 +5878,7 @@
      id="tspan91076">OFFICE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91078"
@@ -5800,6 +5888,7 @@
      x="1245.519"
      y="956.85846"
      id="tspan91080">2</tspan></text>
+
 
 
 <text
@@ -5814,6 +5903,7 @@
      id="tspan91084">48</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91086"
@@ -5824,6 +5914,7 @@
      y="973.3584"
      sodipodi:role="line"
      id="tspan91088">CONF</tspan></text>
+
 
 
 <text
@@ -5838,6 +5929,7 @@
      id="tspan91108">53</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91110"
@@ -5848,6 +5940,7 @@
      y="814.95947"
      sodipodi:role="line"
      id="tspan91112">PHONE</tspan></text>
+
 
 
 <text
@@ -5862,6 +5955,7 @@
      id="tspan91120">54</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91122"
@@ -5872,6 +5966,7 @@
      y="871.79205"
      sodipodi:role="line"
      id="tspan91124">PHONE</tspan></text>
+
 
 
 <text
@@ -5885,6 +5980,7 @@
      y="-1179.201"
      sodipodi:role="line"
      id="tspan89938">COFFEE/TEA</tspan></text>
+
 
 
 <text
@@ -5904,6 +6000,7 @@
      id="tspan89952">ADD ONS</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91060"
@@ -5914,6 +6011,7 @@
      y="752.53595"
      sodipodi:role="line"
      id="tspan91062">42</tspan></text>
+
 
 
 <text
@@ -5928,6 +6026,7 @@
      id="tspan91066">PHONE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91068"
@@ -5937,6 +6036,7 @@
      x="1197.2787"
      y="855.77417"
      id="tspan91070">2</tspan></text>
+
 
 
 <text
@@ -5951,6 +6051,7 @@
      id="tspan91096">52</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91098"
@@ -5961,6 +6062,7 @@
      y="770.44836"
      sodipodi:role="line"
      id="tspan91100">CONF</tspan></text>
+
 
 
 <text
@@ -5974,6 +6076,7 @@
      id="tspan91104">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91114"
@@ -5983,6 +6086,7 @@
      x="1394.0647"
      y="861.29205"
      id="tspan91116">2</tspan></text>
+
 
 
 <text
@@ -5997,6 +6101,7 @@
      id="tspan89942">VIBE</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91048"
@@ -6007,6 +6112,7 @@
      y="641.39288"
      sodipodi:role="line"
      id="tspan91050">40</tspan></text>
+
 
 
 <text
@@ -6021,6 +6127,7 @@
      id="tspan91054">CONF</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91090"
@@ -6030,6 +6137,7 @@
      x="1382.9742"
      y="753.94836"
      id="tspan91092">2</tspan></text>
+
 
 
 <text
@@ -6043,6 +6151,7 @@
      id="tspan91046">2</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91056"
@@ -6052,6 +6161,7 @@
      x="1218.5161"
      y="752.53595"
      id="tspan91058">2</tspan></text>
+
 
 
 <text
@@ -6066,6 +6176,7 @@
      id="tspan89918">PRODUCT</tspan></text>
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text89920"
@@ -6076,6 +6187,7 @@
      y="958.35254"
      sodipodi:role="line"
      id="tspan89922">&amp; WEB APPS</tspan></text>
+
 
 
 <text
@@ -6094,6 +6206,7 @@
      y="473.08603"
      sodipodi:role="line"
      id="tspan545836">SALES</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545870"
@@ -6110,6 +6223,7 @@
      y="715.04553"
      sodipodi:role="line"
      id="tspan545874">ENTRY</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545884"
@@ -6121,6 +6235,7 @@
      y="460.85703"
      sodipodi:role="line"
      id="tspan545886">MAIN </tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545888"
@@ -6132,6 +6247,7 @@
      y="460.85703"
      sodipodi:role="line"
      id="tspan545890">DINING AREA</tspan></text>
+
 <text
    id="text545922"
    x="458.10394"
@@ -6142,6 +6258,7 @@
      id="tspan545924"
      x="458.10394"
      y="1134.8402">SUPPLIES</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546024"
@@ -6158,6 +6275,7 @@
      y="477.23077"
      sodipodi:role="line"
      id="tspan546028">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545838"
@@ -6169,6 +6287,7 @@
      y="721.09375"
      sodipodi:role="line"
      id="tspan545840">CUSTOMER DEVELOPMENT</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545842"
@@ -6180,6 +6299,7 @@
      y="721.09375"
      sodipodi:role="line"
      id="tspan545844">/SUPPORT</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545846"
@@ -6196,6 +6316,7 @@
      y="757.09375"
      sodipodi:role="line"
      id="tspan545850">CORP</tspan></text>
+
 <text
    transform="matrix(0,1,-1,0,39.340691,613.245)"
    id="text545892"
@@ -6207,6 +6328,7 @@
      y="-1162.9637"
      sodipodi:role="line"
      id="tspan545894">BUSSING AREA</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545902"
@@ -6218,6 +6340,7 @@
      y="744.72675"
      sodipodi:role="line"
      id="tspan545904">ALL </tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545906"
@@ -6229,6 +6352,7 @@
      y="744.72675"
      sodipodi:role="line"
      id="tspan545908">HANDS</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545910"
@@ -6240,6 +6364,7 @@
      y="584.58191"
      sodipodi:role="line"
      id="tspan545912">RECEPTION</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545948"
@@ -6251,6 +6376,7 @@
      y="569.85529"
      sodipodi:role="line"
      id="tspan545950">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545960"
@@ -6262,6 +6388,7 @@
      y="564.75513"
      sodipodi:role="line"
      id="tspan545962">MAIN KITCHEN</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545972"
@@ -6278,6 +6405,7 @@
      y="576.61029"
      sodipodi:role="line"
      id="tspan545976">PHONE</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545996"
@@ -6289,6 +6417,7 @@
      y="723.11188"
      sodipodi:role="line"
      id="tspan545998">LOUNGE</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546000"
@@ -6305,6 +6434,7 @@
      y="723.96063"
      sodipodi:role="line"
      id="tspan546004">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546006"
@@ -6321,6 +6451,7 @@
      y="734.31989"
      sodipodi:role="line"
      id="tspan546010">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546030"
@@ -6337,6 +6468,7 @@
      y="679.94104"
      sodipodi:role="line"
      id="tspan546034">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546036"
@@ -6353,6 +6485,7 @@
      y="749.50415"
      sodipodi:role="line"
      id="tspan546040">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545852"
@@ -6364,6 +6497,7 @@
      y="757.09375"
      sodipodi:role="line"
      id="tspan545854">ORATE</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545860"
@@ -6375,6 +6509,7 @@
      y="757.09375"
      sodipodi:role="line"
      id="tspan545862">ARKETING</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545864"
@@ -6391,6 +6526,7 @@
      y="656.57788"
      sodipodi:role="line"
      id="tspan545868">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545896"
@@ -6407,6 +6543,7 @@
      y="752.92291"
      sodipodi:role="line"
      id="tspan545900">PKG</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545944"
@@ -6418,6 +6555,7 @@
      y="553.35529"
      sodipodi:role="line"
      id="tspan545946">100</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545978"
@@ -6434,6 +6572,7 @@
      y="654.44812"
      sodipodi:role="line"
      id="tspan545982">PHONE</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545988"
@@ -6445,6 +6584,7 @@
      y="670.71527"
      sodipodi:role="line"
      id="tspan545990">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546012"
@@ -6461,6 +6601,7 @@
      y="481.95114"
      sodipodi:role="line"
      id="tspan546016">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546018"
@@ -6477,6 +6618,7 @@
      y="477.80777"
      sodipodi:role="line"
      id="tspan546022">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text546042"
@@ -6493,6 +6635,7 @@
      y="756.06"
      sodipodi:role="line"
      id="tspan546046">CONF</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545856"
@@ -6503,6 +6646,7 @@
      x="254.05013"
      y="757.09375"
      id="tspan545858">M</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545984"
@@ -6514,6 +6658,7 @@
      y="654.21527"
      sodipodi:role="line"
      id="tspan545986">105</tspan></text>
+
 <text
    transform="translate(39.340691,613.245)"
    id="text545992"
@@ -6525,6 +6670,7 @@
      y="706.61188"
      sodipodi:role="line"
      id="tspan545994">112</tspan></text>
+
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
@@ -6580,7 +6726,7 @@
        height="72.346169"
        x="314.1893"
        y="622.13507"
-       class="room" /><rect
+       class="room conf" /><rect
        id="apple"
        width="66.834137"
        height="45.474731"
