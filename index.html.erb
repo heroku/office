@@ -26,6 +26,7 @@
     fill: red !important;
     fill-opacity: 0.5;
   }
+
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -33,15 +34,14 @@
 $(function(){
 
 $('.svgholder').on('click', '.room', function(e) {
+console.log(this)
   $('.selected').each(function() {this.classList.remove('selected')})
   this.classList.add('selected')
   history.pushState({},'', "#" + this.id)
 
 })
 
-setTimeout( function() {
-$(window.location.hash).each(function() { this.classList.add('selected') })
-}, 500)
+  $(window.location.hash).each(function() { this.classList.add('selected') })
 
 
 
