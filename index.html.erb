@@ -31,17 +31,29 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
+
+function removeSVGClass(jqEl, className) {
+  var classAttr = jqEl.attr('class');
+  classAttr = classAttr.replace(new RegExp('\\s?' + className), '');
+  jqEl.attr('class', classAttr);
+}
+function addSVGClass(jqEl, className) {
+  var classAttr = jqEl.attr('class');
+  classAttr = classAttr + (classAttr.length === 0 ? '' : ' ') + className;
+  jqEl.attr('class', classAttr);
+}
+
 $(function(){
 
+
 $('.svgholder').on('click', '.room', function(e) {
-console.log(this)
-  $('.selected').each(function() {this.classList.remove('selected')})
-  this.classList.add('selected')
+  $('.selected').each(function() { removeSVGClass($(this), 'selected') })
+  addSVGClass($(this), 'selected')
   history.pushState({},'', "#" + this.id)
 
 })
 
-  $(window.location.hash).each(function() { this.classList.add('selected') })
+  $(window.location.hash).each(function() { addSVGClass($(this), 'selected') })
 
 
 
