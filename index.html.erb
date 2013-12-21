@@ -32,7 +32,7 @@
     white-space: pre;
     position: absolute;
     left: 550px;
-    top: 328px;
+    top: 335px;
   }
 
 </style>
@@ -75,12 +75,20 @@ var descs = {
   100: p6     , 102: p3    , 105: p3
 , 114: p6     , 115: p10   , 122: p4 , 124: p6 , 125: p10 , 129: '16 people , tv'
 , 130: p10    , 131: p10   , 201: p3
+
 , 203: p3     , 206: p6+ot , 207: p3
 , 210: p3     , 212: p6+ot
 , 224: p6     , 226: p6    , 227: p4 , 229: p4
 , 230: p10    , 231: p6+ot , 235: p6 , 236: p6
 , 240: p10+ot , 248: p6+ot
 , 252: p3
+
+, 303: p3     , 306: p6    , 307: p3
+, 310: p3     , 312: p6
+, 324: p6     , 326: p6    , 327: p4 , 329: p4
+, 330: p10    , 331: p6    , 335: p6 , 336: p6
+, 340: p10    , 348: p6
+, 352: p3
 }
 $('.svgholder').on('mouseover', '.conf', function() {
   document.getElementById('desc').innerText =  this.id + ': ' + descs[this.id]

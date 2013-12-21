@@ -4461,13 +4461,13 @@
      inkscape:window-height="724"
      id="namedview3006"
      showgrid="false"
-     inkscape:zoom="1.1984484"
-     inkscape:cx="649.87422"
-     inkscape:cy="964.47232"
+     inkscape:zoom="0.59922421"
+     inkscape:cx="716.6272"
+     inkscape:cy="624.71964"
      inkscape:window-x="5"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -5016,8 +5016,7 @@
      id="layer2"
      inkscape:label="labels"
      style="display:inline"
-     transform="translate(-39.340691,-613.245)"
-     sodipodi:insensitive="true">
+     transform="translate(-39.340691,-613.245)">
 
 
 
@@ -6456,21 +6455,6 @@
 
 
 
-<text
-   id="text545832"
-   x="139.59744"
-   y="1467.3311"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:17.5px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="139.59744 152.02119 164.44495 175.9062 186.38745 199.7912 214.15744 225.6187 238.04245 242.6962 254.15746 266.58118 279.00494 291.42868 302.88995 314.3512 325.81244 330.46622 342.88995"
-     y="1467.3311"
-     sodipodi:role="line"
-     id="tspan545834">CUSTOMER SUCCESS &amp; </tspan><tspan
-     style="font-size:17.5px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="212.6037 224.06494 236.48869 246.96996 258.43118"
-     y="1488.3311"
-     sodipodi:role="line"
-     id="tspan545836">SALES</tspan></text>
 
 
 
@@ -6549,47 +6533,12 @@
 
 
 
-<text
-   id="text545838"
-   x="151.43831"
-   y="1736.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="151.43831 162.05707 172.67581 182.46957 191.42332 202.88206 215.16582 224.95956 235.57831 239.53706 250.15582 259.94955 269.74332 279.53705 288.49081 299.94955 309.74332 322.02707 331.82083 342.43958"
-     y="1736.3387"
-     sodipodi:role="line"
-     id="tspan545840">CUSTOMER DEVELOPMENT</tspan></text>
 
 
 
-<text
-   id="text545842"
-   x="351.39331"
-   y="1736.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="351.39331 355.35208 365.14581 375.76456 385.55832 395.35208 406.81082 417.42957"
-     y="1736.3387"
-     sodipodi:role="line"
-     id="tspan545844">/SUPPORT</tspan></text>
 
 
 
-<text
-   id="text545846"
-   x="187.38083"
-   y="1754.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="187.38083 197.17458 207.79333 219.25208 229.87083 240.48958 251.10832 260.06207 264.02081 274.63956 285.25833 295.87708 306.49582 310.45459 319.40833 329.20209 339.82083 348.7746 359.39334 370.01208 379.80582 383.76456 394.38333"
-     y="1754.3387"
-     sodipodi:role="line"
-     id="tspan545848">PRODUCT ARCHITECTURE &amp; </tspan><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="195.49832 206.11708 217.57582 228.19458"
-     y="1772.3387"
-     sodipodi:role="line"
-     id="tspan545850">CORP</tspan></text>
 
 
 
@@ -6775,29 +6724,9 @@
 
 
 
-<text
-   id="text545852"
-   x="237.98831"
-   y="1772.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="237.98831 249.44707 260.06583 270.68457 279.63831"
-     y="1772.3387"
-     sodipodi:role="line"
-     id="tspan545854">ORATE</tspan></text>
 
 
 
-<text
-   id="text545860"
-   x="305.67456"
-   y="1772.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="305.67456 316.2933 326.91208 337.53082 347.32455 356.27832 360.23706 370.8558"
-     y="1772.3387"
-     sodipodi:role="line"
-     id="tspan545862">ARKETING</tspan></text>
 
 
 
@@ -6935,15 +6864,6 @@
 
 
 
-<text
-   id="text545856"
-   x="293.39081"
-   y="1772.3387"
-   style="font-size:15px;display:inline"><tspan
-     style="font-size:15px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="293.39081"
-     y="1772.3387"
-     id="tspan545858">M</tspan></text>
 
 
 
@@ -7859,12 +7779,175 @@
      sodipodi:role="line"
      id="tspan89976-7"
      y="746.47375">COPY</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;text-anchor:start;text-align:start;writing-mode:lr"
+   x="66.752975"
+   y="69.571968"
+   id="text6583"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6585"
+     x="66.752975"
+     y="69.571968">sales</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="85.110046"
+   y="343.25916"
+   id="text6587"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6589"
+     x="85.110046"
+     y="343.25916">sales</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="453.20914"
+   y="672.80402"
+   id="text6591"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6593"
+     x="453.20914"
+     y="672.80402">marketing</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="416.49503"
+   y="964.84827"
+   id="text6595"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6597"
+     x="416.49503"
+     y="964.84827">support</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="1233.2612"
+   y="66.234314"
+   id="text6599"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6601"
+     x="1233.2612"
+     y="66.234314">vibe</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="910.46704"
+   y="966.51709"
+   id="text6603"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6605"
+     x="910.46704"
+     y="966.51709">lounge</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="1100.713"
+   y="966.51715"
+   id="text6607"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6609"
+     x="1100.713"
+     y="966.51715">vault</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="43.389435"
+   y="458.40805"
+   id="text6611"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6613"
+     x="43.389435"
+     y="458.40805">addons</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="86.067772"
+   y="1353.6844"
+   id="text6615"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6617"
+     x="86.067772"
+     y="1353.6844">webapps</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="439.85855"
+   y="1069.9843"
+   id="text6619"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6621"
+     x="439.85855"
+     y="1069.9843">platform</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="377.15433"
+   y="738.77057"
+   id="text6623"
+   sodipodi:linespacing="125%"
+   inkscape:transform-center-y="-15.478516"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6625"
+     x="377.15433"
+     y="738.77057">dod</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   x="492.30319"
+   y="748.78351"
+   id="text6627"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6629"
+     x="492.30319"
+     y="748.78351">product</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="559.05615"
+   y="1301.1644"
+   id="text6631"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan6633"
+     x="559.05615"
+     y="1301.1644">s</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="591.50079"
+   y="962.65759"
+   id="text6595-8"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6597-3"
+     x="591.50079"
+     y="962.65759">corp</tspan></text>
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="trace"
      style="display:inline"
-     transform="translate(-39.340691,-613.245)"><rect
+     transform="translate(-39.340691,-613.245)"
+     sodipodi:insensitive="true"><rect
        id="201"
        width="55.120937"
        height="64.767036"
