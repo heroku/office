@@ -4461,13 +4461,13 @@
      inkscape:window-height="724"
      id="namedview3006"
      showgrid="false"
-     inkscape:zoom="0.59922421"
-     inkscape:cx="716.6272"
-     inkscape:cy="624.71964"
+     inkscape:zoom="1.0929032"
+     inkscape:cx="1287.9153"
+     inkscape:cy="986.31553"
      inkscape:window-x="5"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="svg3004"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -5016,7 +5016,8 @@
      id="layer2"
      inkscape:label="labels"
      style="display:inline"
-     transform="translate(-39.340691,-613.245)">
+     transform="translate(-39.340691,-613.245)"
+     sodipodi:insensitive="true">
 
 
 
@@ -5041,6 +5042,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90044"
@@ -5051,6 +5053,7 @@
      y="1181.2859"
      sodipodi:role="line"
      id="tspan90046">CONF</tspan></text>
+
 
 
 
@@ -5070,6 +5073,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90082"
@@ -5084,6 +5088,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90086"
@@ -5093,6 +5098,7 @@
      x="256.59882"
      y="1165.2944"
      id="tspan90088">7</tspan></text>
+
 
 
 
@@ -5113,6 +5119,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90870"
@@ -5123,6 +5130,7 @@
      y="1057.5461"
      sodipodi:role="line"
      id="tspan90872">06</tspan></text>
+
 
 
 
@@ -5143,6 +5151,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90032"
@@ -5152,6 +5161,7 @@
      x="113.30322"
      y="1164.7859"
      id="tspan90034">2</tspan></text>
+
 
 
 
@@ -5176,6 +5186,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90070"
@@ -5185,6 +5196,7 @@
      x="127.59435"
      y="1263.1173"
      id="tspan90072">3</tspan></text>
+
 
 
 
@@ -5200,6 +5212,7 @@
      y="1279.6173"
      sodipodi:role="line"
      id="tspan90076">CONF</tspan></text>
+
 
 
 
@@ -5225,6 +5238,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90112"
@@ -5234,6 +5248,7 @@
      x="245.79982"
      y="1222.5078"
      id="tspan90114">0</tspan></text>
+
 
 
 
@@ -5254,6 +5269,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90126"
@@ -5264,6 +5280,7 @@
      y="1290.8252"
      sodipodi:role="line"
      id="tspan90128">CONF</tspan></text>
+
 
 
 
@@ -5283,6 +5300,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90040"
@@ -5292,6 +5310,7 @@
      x="128.17072"
      y="1164.7859"
      id="tspan90042">1</tspan></text>
+
 
 
 
@@ -5311,6 +5330,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90866"
@@ -5320,6 +5340,7 @@
      x="347.87668"
      y="1057.5461"
      id="tspan90868">2</tspan></text>
+
 
 
 
@@ -5339,6 +5360,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90062"
@@ -5353,6 +5375,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90066"
@@ -5362,6 +5385,7 @@
      x="120.16059"
      y="1263.1173"
      id="tspan90068">0</tspan></text>
+
 
 
 
@@ -5382,6 +5406,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -5392,6 +5417,7 @@
      x="1218.9044"
      y="-216.26744"
      id="tspan90096">2</tspan></text>
+
 
 
 
@@ -5416,6 +5442,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90108"
@@ -5425,6 +5452,7 @@
      x="241.14606"
      y="1222.5078"
      id="tspan90110">2</tspan></text>
+
 
 
 
@@ -5446,6 +5474,7 @@
 
 
 
+
 <text
    id="text90012"
    transform="matrix(1,0,0,-1,463.517,331.61)"><tspan
@@ -5454,6 +5483,7 @@
      y="0"
      x="0 5.941 12.992 19.493"
      style="font-size:10px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">FAST</tspan></text>
+
 
 
 
@@ -5475,6 +5505,7 @@
 
 
 
+
 <text
    id="text90886"
    transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
@@ -5483,6 +5514,7 @@
      y="0"
      x="0 7.787003 16.162001 23.949003"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CONF</tspan></text>
+
 
 
 
@@ -5504,6 +5536,7 @@
 
 
 
+
 <text
    id="text90894"
    transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
@@ -5512,6 +5545,7 @@
      y="0"
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 
 
 
@@ -5531,6 +5565,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90968"
@@ -5540,6 +5575,7 @@
      x="831.06158"
      y="1042.1106"
      id="tspan90970">2</tspan></text>
+
 
 
 
@@ -5560,6 +5596,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90976"
@@ -5570,6 +5607,7 @@
      y="1058.6106"
      sodipodi:role="line"
      id="tspan90978">CONF</tspan></text>
+
 
 
 
@@ -5590,6 +5628,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90906"
@@ -5605,6 +5644,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90898"
@@ -5614,6 +5654,7 @@
      x="757.42493"
      y="1109.2017"
      id="tspan90900">2</tspan></text>
+
 
 
 
@@ -5634,6 +5675,7 @@
 
 
 
+
 <text
    id="text90914"
    transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
@@ -5642,6 +5684,7 @@
      y="0"
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">26</tspan></text>
+
 
 
 
@@ -5660,6 +5703,7 @@
 
 
 
+
 <text
    id="text90922"
    transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
@@ -5667,6 +5711,7 @@
      y="0"
      x="0"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">F</tspan></text>
+
 
 
 
@@ -5693,6 +5738,7 @@
 
 
 
+
 <text
    id="text90984"
    transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
@@ -5706,6 +5752,7 @@
      y="13.2"
      x="-20.045 -13.493 -5.1040001 2.6689999 10.442 18.830999"
      style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">LOUNGE</tspan></text>
+
 
 
 
@@ -5732,6 +5779,7 @@
 
 
 
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text90990"
@@ -5741,6 +5789,7 @@
      x="828.4256"
      y="1179.9014"
      id="tspan90992">2</tspan></text>
+
 
 
 
@@ -5762,6 +5811,7 @@
 
 
 
+
 <text
    id="text91008"
    transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
@@ -5770,6 +5820,7 @@
      y="0"
      x="0 4.5 9.3850002 14.662 19.547001"
      style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 
 
 
@@ -5784,6 +5835,7 @@
      x="900.01428"
      y="1176.249"
      id="tspan91002">2</tspan></text>
+
 
 
 
@@ -5814,6 +5866,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90016"
@@ -5824,6 +5877,7 @@
      y="1361.537"
      sodipodi:role="line"
      id="tspan90018">LIBRARY</tspan></text>
+
 
 
 
@@ -5844,6 +5898,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91012"
@@ -5853,6 +5908,7 @@
      x="836.01642"
      y="1281.0022"
      id="tspan91014">2</tspan></text>
+
 
 
 
@@ -5878,6 +5934,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91022"
@@ -5887,6 +5944,7 @@
      x="833.78979"
      y="1349.3757"
      id="tspan91024">2</tspan></text>
+
 
 
 
@@ -5912,6 +5970,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91032"
@@ -5921,6 +5980,7 @@
      x="904.33307"
      y="1278.9001"
      id="tspan91034">2</tspan></text>
+
 
 
 
@@ -5936,6 +5996,7 @@
      y="1278.9001"
      sodipodi:role="line"
      id="tspan91038">37</tspan></text>
+
 
 
 
@@ -5961,6 +6022,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90378"
@@ -5971,6 +6033,7 @@
      y="1352.4469"
      sodipodi:role="line"
      id="tspan90380">212</tspan></text>
+
 
 
 
@@ -5991,6 +6054,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90926"
@@ -6000,6 +6064,7 @@
      x="701.41034"
      y="1278.9875"
      id="tspan90928">2</tspan></text>
+
 
 
 
@@ -6020,6 +6085,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90944"
@@ -6035,6 +6101,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90952"
@@ -6044,6 +6111,7 @@
      x="731.20398"
      y="1350.3223"
      id="tspan90954">2</tspan></text>
+
 
 
 
@@ -6064,6 +6132,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90936"
@@ -6073,6 +6142,7 @@
      x="757.9762"
      y="1285.2217"
      id="tspan90938">2</tspan></text>
+
 
 
 
@@ -6092,6 +6162,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90964"
@@ -6101,6 +6172,7 @@
      x="753.3327"
      y="1366.8223"
      id="tspan90966">F</tspan></text>
+
 
 
 
@@ -6141,6 +6213,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91078"
@@ -6150,6 +6223,7 @@
      x="1245.519"
      y="1358.8585"
      id="tspan91080">2</tspan></text>
+
 
 
 
@@ -6170,6 +6244,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91086"
@@ -6180,6 +6255,7 @@
      y="1375.3584"
      sodipodi:role="line"
      id="tspan91088">CONF</tspan></text>
+
 
 
 
@@ -6200,6 +6276,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91110"
@@ -6210,6 +6287,7 @@
      y="1216.9595"
      sodipodi:role="line"
      id="tspan91112">PHONE</tspan></text>
+
 
 
 
@@ -6230,6 +6308,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91122"
@@ -6240,6 +6319,7 @@
      y="1273.7921"
      sodipodi:role="line"
      id="tspan91124">PHONE</tspan></text>
+
 
 
 
@@ -6266,6 +6346,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91060"
@@ -6276,6 +6357,7 @@
      y="1154.5359"
      sodipodi:role="line"
      id="tspan91062">42</tspan></text>
+
 
 
 
@@ -6296,6 +6378,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91068"
@@ -6305,6 +6388,7 @@
      x="1197.2787"
      y="1257.7742"
      id="tspan91070">2</tspan></text>
+
 
 
 
@@ -6325,6 +6409,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91098"
@@ -6335,6 +6420,7 @@
      y="1172.4485"
      sodipodi:role="line"
      id="tspan91100">CONF</tspan></text>
+
 
 
 
@@ -6354,6 +6440,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91114"
@@ -6363,6 +6450,7 @@
      x="1394.0647"
      y="1263.2921"
      id="tspan91116">2</tspan></text>
+
 
 
 
@@ -6388,6 +6476,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91052"
@@ -6398,6 +6487,7 @@
      y="1059.8928"
      sodipodi:role="line"
      id="tspan91054">CONF</tspan></text>
+
 
 
 
@@ -6417,6 +6507,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91044"
@@ -6431,6 +6522,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91056"
@@ -6440,6 +6532,7 @@
      x="1218.5161"
      y="1154.5359"
      id="tspan91058">2</tspan></text>
+
 
 
 
@@ -6476,6 +6569,7 @@
 
 
 
+
 <text
    id="text545884"
    x="925.98779"
@@ -6486,6 +6580,7 @@
      y="1476.1021"
      sodipodi:role="line"
      id="tspan545886">MAIN </tspan></text>
+
 
 
 
@@ -6502,6 +6597,7 @@
 
 
 
+
 <text
    id="text545922"
    x="458.10394"
@@ -6512,6 +6608,7 @@
      id="tspan545924"
      x="458.10394"
      y="1536.8402">SUPPLIES</tspan></text>
+
 
 
 
@@ -6542,6 +6639,7 @@
 
 
 
+
 <text
    transform="matrix(0,1,-1,0,0,0)"
    id="text545892"
@@ -6553,6 +6651,7 @@
      y="-1202.3044"
      sodipodi:role="line"
      id="tspan545894">BUSSING AREA</tspan></text>
+
 
 
 
@@ -6569,6 +6668,7 @@
 
 
 
+
 <text
    id="text545906"
    x="1148.1895"
@@ -6579,6 +6679,7 @@
      y="1759.9718"
      sodipodi:role="line"
      id="tspan545908">HANDS</tspan></text>
+
 
 
 
@@ -6595,6 +6696,7 @@
 
 
 
+
 <text
    id="text545948"
    x="65.06044"
@@ -6608,6 +6710,7 @@
 
 
 
+
 <text
    id="text545960"
    x="1014.5786"
@@ -6618,6 +6721,7 @@
      y="1580.0001"
      sodipodi:role="line"
      id="tspan545962">MAIN KITCHEN</tspan></text>
+
 
 
 
@@ -6639,6 +6743,7 @@
 
 
 
+
 <text
    id="text545996"
    x="463.52969"
@@ -6649,6 +6754,7 @@
      y="1738.3569"
      sodipodi:role="line"
      id="tspan545998">LOUNGE</tspan></text>
+
 
 
 
@@ -6670,6 +6776,7 @@
 
 
 
+
 <text
    id="text546006"
    x="645.24396"
@@ -6688,6 +6795,7 @@
 
 
 
+
 <text
    id="text546030"
    x="837.90234"
@@ -6703,6 +6811,7 @@
      y="1695.186"
      sodipodi:role="line"
      id="tspan546034">CONF</tspan></text>
+
 
 
 
@@ -6730,6 +6839,7 @@
 
 
 
+
 <text
    id="text545864"
    x="85.569191"
@@ -6745,6 +6855,7 @@
      y="1671.8229"
      sodipodi:role="line"
      id="tspan545868">CONF</tspan></text>
+
 
 
 
@@ -6766,6 +6877,7 @@
 
 
 
+
 <text
    id="text545944"
    x="72.961693"
@@ -6776,6 +6888,7 @@
      y="1568.6003"
      sodipodi:role="line"
      id="tspan545946">100</tspan></text>
+
 
 
 
@@ -6797,6 +6910,7 @@
 
 
 
+
 <text
    id="text545988"
    x="215.3577"
@@ -6807,6 +6921,7 @@
      y="1685.9603"
      sodipodi:role="line"
      id="tspan545990">CONF</tspan></text>
+
 
 
 
@@ -6828,6 +6943,7 @@
 
 
 
+
 <text
    id="text546018"
    x="554.92957"
@@ -6843,6 +6959,7 @@
      y="1493.0527"
      sodipodi:role="line"
      id="tspan546022">CONF</tspan></text>
+
 
 
 
@@ -6867,6 +6984,7 @@
 
 
 
+
 <text
    id="text545984"
    x="223.15395"
@@ -6877,6 +6995,7 @@
      y="1669.4603"
      sodipodi:role="line"
      id="tspan545986">105</tspan></text>
+
 
 
 
@@ -6893,6 +7012,7 @@
 
 
 
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90044-1"
@@ -6903,6 +7023,7 @@
      y="786.59271"
      sodipodi:role="line"
      id="tspan90046-8">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90078-5"
@@ -6912,6 +7033,7 @@
      x="241.49432"
      y="770.60126"
      id="tspan90080-8">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90082-9"
@@ -6921,6 +7043,7 @@
      x="248.92804"
      y="770.60126"
      id="tspan90084-9">0</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90086-9"
@@ -6930,6 +7053,7 @@
      x="256.36182"
      y="770.60126"
      id="tspan90088-3">7</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90090-3"
@@ -6940,6 +7064,7 @@
      y="787.10126"
      sodipodi:role="line"
      id="tspan90092-7">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90870-7"
@@ -6950,6 +7075,7 @@
      y="662.85297"
      sodipodi:role="line"
      id="tspan90872-3">06</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90874-2"
@@ -6960,6 +7086,7 @@
      y="679.35297"
      sodipodi:role="line"
      id="tspan90876-5">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90032-6"
@@ -6969,6 +7096,7 @@
      x="113.06622"
      y="770.09271"
      id="tspan90034-3" /></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90056-4"
@@ -6983,6 +7111,7 @@
      y="828.61298"
      sodipodi:role="line"
      id="tspan90060-6">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90070-0"
@@ -6992,6 +7121,7 @@
      x="127.35736"
      y="868.42419"
      id="tspan90072-4">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90074-0"
@@ -7002,6 +7132,7 @@
      y="884.92419"
      sodipodi:role="line"
      id="tspan90076-5">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -7017,6 +7148,7 @@
      y="-205.5309"
      sodipodi:role="line"
      id="tspan90106-5">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90112-3"
@@ -7026,6 +7158,7 @@
      x="245.56281"
      y="827.81458"
      id="tspan90114-7">0</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90122-6"
@@ -7036,6 +7169,7 @@
      id="tspan90124-8"
      x="217.14172"
      y="879.63208">310</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90126-6"
@@ -7046,6 +7180,7 @@
      y="896.13208"
      sodipodi:role="line"
      id="tspan90128-7">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90036-1"
@@ -7055,6 +7190,7 @@
      x="114.49994"
      y="770.09271"
      id="tspan90038-8">301</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90040-4"
@@ -7064,6 +7200,7 @@
      x="127.93372"
      y="770.09271"
      id="tspan90042-9" /></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90052-7"
@@ -7073,6 +7210,7 @@
      x="124.88135"
      y="818.11298"
      id="tspan90054-3">0</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90866-1"
@@ -7082,6 +7220,7 @@
      x="347.63971"
      y="662.85297"
      id="tspan90868-0">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90048-2"
@@ -7091,6 +7230,7 @@
      x="120.2276"
      y="818.11298"
      id="tspan90050-3">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90062-7"
@@ -7100,6 +7240,7 @@
      x="112.48987"
      y="868.42419"
      id="tspan90064-1">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90066-8"
@@ -7109,6 +7250,7 @@
      x="119.92358"
      y="868.42419"
      id="tspan90068-9">0</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -7119,6 +7261,7 @@
      x="828.86499"
      y="-216.0309"
      id="tspan90100-7">0</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -7129,6 +7272,7 @@
      x="824.21118"
      y="-216.0309"
      id="tspan90096-8">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90116-0"
@@ -7143,6 +7287,7 @@
      y="838.31458"
      sodipodi:role="line"
      id="tspan90120-0">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90108-5"
@@ -7152,25 +7297,28 @@
      x="240.90906"
      y="827.81458"
      id="tspan90110-7">3</tspan></text>
+
 <g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93667-3"><text
-     id="text90890-4"
-     transform="matrix(1,0,0,-1,341.513,574.823)"><tspan
-       id="tspan90892-3"
-       sodipodi:role="line"
-       x="0 3.723 7.4460001 11.169"
-       style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-       y="0">325</tspan></text>
+   id="text90890-4"
+   transform="matrix(1,0,0,-1,341.513,574.823)"><tspan
+     id="tspan90892-3"
+     sodipodi:role="line"
+     x="0 3.723 7.4460001 11.169"
+     style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+     y="0">325</tspan></text>
+
 <text
-     id="text90894-0"
-     transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
-       id="tspan90896-4"
-       sodipodi:role="line"
-       y="0"
-       x="0 4.5 9.3850002 14.662 19.547001"
-       style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+   id="text90894-0"
+   transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
+     id="tspan90896-4"
+     sodipodi:role="line"
+     y="0"
+     x="0 4.5 9.3850002 14.662 19.547001"
+     style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text90976-2"
@@ -7181,6 +7329,7 @@
      y="663.91742"
      sodipodi:role="line"
      id="tspan90978-7">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90902-3"
@@ -7191,6 +7340,7 @@
      y="714.50848"
      sodipodi:role="line"
      id="tspan90904-9">27</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90906-7"
@@ -7201,6 +7351,7 @@
      y="731.00848"
      sodipodi:role="line"
      id="tspan90908-7">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90898-9"
@@ -7210,84 +7361,92 @@
      x="757.18793"
      y="714.50848"
      id="tspan90900-5">3</tspan></text>
+
 <g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93692-3"><text
-     id="text90910-3"
-     transform="matrix(0,1,1,0,400.4737,571.4313)"><tspan
-       id="tspan90912-3"
-       y="0"
-       x="0"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">3</tspan></text>
+   id="text90910-3"
+   transform="matrix(0,1,1,0,400.4737,571.4313)"><tspan
+     id="tspan90912-3"
+     y="0"
+     x="0"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">3</tspan></text>
+
 <text
-     id="text90914-8"
-     transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
-       id="tspan90916-5"
-       sodipodi:role="line"
-       y="0"
-       x="0"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">26</tspan></text>
+   id="text90914-8"
+   transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
+     id="tspan90916-5"
+     sodipodi:role="line"
+     y="0"
+     x="0"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">26</tspan></text>
+
 <text
-     id="text90918-8"
-     transform="matrix(0,1,1,0,413.6737,565.1873)"><tspan
-       id="tspan90920-9"
-       sodipodi:role="line"
-       y="0"
-       x="0 7.7729998 16.162001"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CON</tspan></text>
+   id="text90918-8"
+   transform="matrix(0,1,1,0,413.6737,565.1873)"><tspan
+     id="tspan90920-9"
+     sodipodi:role="line"
+     y="0"
+     x="0 7.7729998 16.162001"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CON</tspan></text>
+
 <text
-     id="text90922-6"
-     transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
-       id="tspan90924-0"
-       y="0"
-       x="0"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">F</tspan></text>
+   id="text90922-6"
+   transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
+     id="tspan90924-0"
+     y="0"
+     x="0"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">F</tspan></text>
+
 </g><g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93711-4"><g
-     transform="translate(364.98,692.22)"
-     id="g50152-2"><path
-       inkscape:connector-curvature="0"
-       id="path50154-3"
-       style="fill:none;stroke:#777777;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       d="M 0,0 -0.06,0 -0.12,-0.06 -0.18,-0.12" /></g><text
-     id="text90980-3"
-     transform="matrix(0,1,1,0,354.1813,672.3776)"><tspan
-       id="tspan90982-7"
-       y="0"
-       x="0"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">3</tspan></text>
+   transform="translate(364.98,692.22)"
+   id="g50152-2"><path
+     inkscape:connector-curvature="0"
+     id="path50154-3"
+     style="fill:none;stroke:#777777;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     d="M 0,0 -0.06,0 -0.12,-0.06 -0.18,-0.12" /></g><text
+   id="text90980-3"
+   transform="matrix(0,1,1,0,354.1813,672.3776)"><tspan
+     id="tspan90982-7"
+     y="0"
+     x="0"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">3</tspan></text>
+
 <text
-     id="text90984-0"
-     transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
-       id="tspan90986-0"
-       sodipodi:role="line"
-       y="0"
-       x="0 5.947"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">32</tspan><tspan
-       id="tspan90988-1"
-       sodipodi:role="line"
-       y="13.2"
-       x="-20.045 -13.493 -5.1040001 2.6689999 10.442 18.830999"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">LOUNGE</tspan></text>
+   id="text90984-0"
+   transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
+     id="tspan90986-0"
+     sodipodi:role="line"
+     y="0"
+     x="0 5.947"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">32</tspan><tspan
+     id="tspan90988-1"
+     sodipodi:role="line"
+     y="13.2"
+     x="-20.045 -13.493 -5.1040001 2.6689999 10.442 18.830999"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">LOUNGE</tspan></text>
+
 </g><g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93749-0"><text
-     transform="matrix(0,1,1,0,402.3346,668.6876)"
-     id="text90994-3"><tspan
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-       x="0 5.947"
-       y="0"
-       sodipodi:role="line"
-       id="tspan90996-0">33</tspan><tspan
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-       x="-19.959999 -13.408 -5.0190001 2.7539999 10.527 18.916"
-       y="13.2"
-       sodipodi:role="line"
-       id="tspan90998-0">LOUNGE</tspan></text>
+   transform="matrix(0,1,1,0,402.3346,668.6876)"
+   id="text90994-3"><tspan
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+     x="0 5.947"
+     y="0"
+     sodipodi:role="line"
+     id="tspan90996-0">33</tspan><tspan
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+     x="-19.959999 -13.408 -5.0190001 2.7539999 10.527 18.916"
+     y="13.2"
+     sodipodi:role="line"
+     id="tspan90998-0">LOUNGE</tspan></text>
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text90990-3"
@@ -7297,25 +7456,28 @@
      x="828.1886"
      y="785.20819"
      id="tspan90992-8">3</tspan></text>
+
 <g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93760-3"><text
-     id="text91004-6"
-     transform="matrix(0,1,1,0,399.4128,723.7346)"><tspan
-       id="tspan91006-0"
-       sodipodi:role="line"
-       y="0"
-       x="0 3.723"
-       style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">34</tspan></text>
+   id="text91004-6"
+   transform="matrix(0,1,1,0,399.4128,723.7346)"><tspan
+     id="tspan91006-0"
+     sodipodi:role="line"
+     y="0"
+     x="0 3.723"
+     style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">34</tspan></text>
+
 <text
-     id="text91008-4"
-     transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
-       id="tspan91010-0"
-       sodipodi:role="line"
-       y="0"
-       x="0 4.5 9.3850002 14.662 19.547001"
-       style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+   id="text91008-4"
+   transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
+     id="tspan91010-0"
+     sodipodi:role="line"
+     y="0"
+     x="0 4.5 9.3850002 14.662 19.547001"
+     style="font-size:7px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">PHONE</tspan></text>
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text91000-9"
@@ -7325,6 +7487,7 @@
      x="899.77728"
      y="781.55585"
      id="tspan91002-2">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90930-4"
@@ -7340,6 +7503,7 @@
      y="896.29437"
      sodipodi:role="line"
      id="tspan90934-2">LOUNGE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90956-3"
@@ -7350,6 +7514,7 @@
      y="955.62921"
      sodipodi:role="line"
      id="tspan90958-0">30</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91012-0"
@@ -7359,21 +7524,23 @@
      x="835.77942"
      y="886.30908"
      id="tspan91014-3">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91016-0"
    x="843.2132"
    y="886.30908"><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="843.2132 843.2132 850.64691"
+     x="843.2132 843.2132"
      y="886.30908 886.30908"
      sodipodi:role="line"
-     id="tspan91018-1">335</tspan><tspan
+     id="tspan91018-1">336</tspan><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
      x="827.87946 837.5957 848.08191 857.79816"
      y="902.80908"
      sodipodi:role="line"
      id="tspan91020-9">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91022-8"
@@ -7383,21 +7550,23 @@
      x="833.5528"
      y="954.68262"
      id="tspan91024-6">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91026-9"
    x="840.98657"
    y="954.68262"><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="840.98657 848.42029"
+     x="840.98657"
      y="954.68262"
      sodipodi:role="line"
-     id="tspan91028-0">36</tspan><tspan
+     id="tspan91028-0">38</tspan><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
      x="825.75659 835.47284 845.95905 855.67529"
      y="971.18262"
      sodipodi:role="line"
      id="tspan91030-1">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91032-6"
@@ -7407,6 +7576,7 @@
      x="904.09607"
      y="884.20697"
      id="tspan91034-4">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91036-4"
@@ -7417,6 +7587,7 @@
      y="884.20697"
      sodipodi:role="line"
      id="tspan91038-8">37</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91040-6"
@@ -7427,6 +7598,7 @@
      y="894.70697"
      sodipodi:role="line"
      id="tspan91042-1">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90378-8"
@@ -7437,6 +7609,7 @@
      id="tspan90380-1"
      x="344.95734"
      y="957.75378">312</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90382-0"
@@ -7447,6 +7620,7 @@
      y="974.25391"
      sodipodi:role="line"
      id="tspan90384-3">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90926-1"
@@ -7456,6 +7630,7 @@
      x="701.17334"
      y="884.29437"
      id="tspan90928-1">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90940-5"
@@ -7466,6 +7641,7 @@
      y="890.52863"
      sodipodi:role="line"
      id="tspan90942-0">29</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90944-8"
@@ -7476,6 +7652,7 @@
      y="907.02863"
      sodipodi:role="line"
      id="tspan90946-4">CON</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90952-9"
@@ -7485,6 +7662,7 @@
      x="730.96698"
      y="955.62921"
      id="tspan90954-3">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90960-0"
@@ -7495,6 +7673,7 @@
      y="972.12921"
      sodipodi:role="line"
      id="tspan90962-5">CON</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90936-2"
@@ -7504,6 +7683,7 @@
      x="757.7392"
      y="890.52863"
      id="tspan90938-3">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90948-8"
@@ -7513,6 +7693,7 @@
      x="779.86169"
      y="907.02863"
      id="tspan90950-7">F</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90964-8"
@@ -7522,6 +7703,7 @@
      x="753.0957"
      y="972.12921"
      id="tspan90966-0">F</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91072-3"
@@ -7537,6 +7719,7 @@
      y="876.58112"
      sodipodi:role="line"
      id="tspan91076-0">OFFICE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91078-2"
@@ -7546,16 +7729,18 @@
      x="1245.282"
      y="964.16541"
      id="tspan91080-3">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91082-2"
    x="1252.7158"
    y="964.16541"><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="1252.7158 1260.1494"
+     x="1252.7158"
      y="964.16541"
      sodipodi:role="line"
-     id="tspan91084-7">48</tspan></text>
+     id="tspan91084-7">49</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91086-1"
@@ -7566,6 +7751,7 @@
      y="980.66528"
      sodipodi:role="line"
      id="tspan91088-0">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91106-0"
@@ -7576,6 +7762,7 @@
      y="811.7663"
      sodipodi:role="line"
      id="tspan91108-9">53</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91110-7"
@@ -7586,6 +7773,7 @@
      y="822.2663"
      sodipodi:role="line"
      id="tspan91112-1">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91118-7"
@@ -7596,6 +7784,7 @@
      y="868.599"
      sodipodi:role="line"
      id="tspan91120-4">54</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91122-5"
@@ -7606,6 +7795,7 @@
      y="879.099"
      sodipodi:role="line"
      id="tspan91124-1">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91060-5"
@@ -7616,6 +7806,7 @@
      y="759.84271"
      sodipodi:role="line"
      id="tspan91062-3">42</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91064-0"
@@ -7626,6 +7817,7 @@
      y="770.34271"
      sodipodi:role="line"
      id="tspan91066-1">PHONE</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91068-9"
@@ -7635,6 +7827,7 @@
      x="1197.0417"
      y="863.08112"
      id="tspan91070-4">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91094-5"
@@ -7645,6 +7838,7 @@
      y="761.25531"
      sodipodi:role="line"
      id="tspan91096-9">52</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91098-3"
@@ -7655,6 +7849,7 @@
      y="777.75531"
      sodipodi:role="line"
      id="tspan91100-9">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91102-6"
@@ -7664,6 +7859,7 @@
      x="1376.4182"
      y="811.7663"
      id="tspan91104-6">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91114-4"
@@ -7673,6 +7869,7 @@
      x="1393.8276"
      y="868.599"
      id="tspan91116-0">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91052-0"
@@ -7683,6 +7880,7 @@
      y="665.19965"
      sodipodi:role="line"
      id="tspan91054-7">CONF</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91090-2"
@@ -7692,6 +7890,7 @@
      x="1382.7372"
      y="761.25531"
      id="tspan91092-9">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91056-1"
@@ -7701,25 +7900,28 @@
      x="1218.2791"
      y="759.84271"
      id="tspan91058-6">3</tspan></text>
+
 <g
    transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
    style="display:inline"
    id="g93656-8"><text
-     id="text90882-0"
-     transform="matrix(0,1,1,0,293.6944,601.8866)"><tspan
-       id="tspan90884-6"
-       sodipodi:role="line"
-       y="0"
-       x="0 5.947"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">24</tspan></text>
+   id="text90882-0"
+   transform="matrix(0,1,1,0,293.6944,601.8866)"><tspan
+     id="tspan90884-6"
+     sodipodi:role="line"
+     y="0"
+     x="0 5.947"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">24</tspan></text>
+
 <text
-     id="text90886-5"
-     transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
-       id="tspan90888-7"
-       sodipodi:role="line"
-       y="0"
-       x="0 7.787003 16.162001 23.949003"
-       style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CONF</tspan></text>
+   id="text90886-5"
+   transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
+     id="tspan90888-7"
+     sodipodi:role="line"
+     y="0"
+     x="0 7.787003 16.162001 23.949003"
+     style="font-size:11px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">CONF</tspan></text>
+
 </g><text
    style="font-size:14.99999714px;display:inline"
    id="text90878-8"
@@ -7729,6 +7931,7 @@
      x="744.68732"
      y="649.4079"
      id="tspan90880-7">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90968-5"
@@ -7738,6 +7941,7 @@
      x="830.82458"
      y="647.41742"
      id="tspan90970-9">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text90972-5"
@@ -7748,16 +7952,18 @@
      y="647.41742"
      sodipodi:role="line"
      id="tspan90974-3">31</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91048-0"
    x="1158.3967"
    y="648.69965"><tspan
      style="font-size:13.74999714px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="1158.3967 1165.8303"
+     x="1158.3967"
      y="648.69965"
      sodipodi:role="line"
-     id="tspan91050-6">40</tspan></text>
+     id="tspan91050-6">41</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91044-8"
@@ -7767,6 +7973,7 @@
      x="1150.9629"
      y="648.69965"
      id="tspan91046-1">3</tspan></text>
+
 <text
    style="font-size:14.99999714px;display:inline"
    id="text89974-8"
@@ -7779,9 +7986,10 @@
      sodipodi:role="line"
      id="tspan89976-7"
      y="746.47375">COPY</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="66.752975"
    y="69.571968"
    id="text6583"
@@ -7791,9 +7999,10 @@
      id="tspan6585"
      x="66.752975"
      y="69.571968">sales</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="85.110046"
    y="343.25916"
    id="text6587"
@@ -7803,9 +8012,10 @@
      id="tspan6589"
      x="85.110046"
      y="343.25916">sales</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="453.20914"
    y="672.80402"
    id="text6591"
@@ -7814,9 +8024,10 @@
      id="tspan6593"
      x="453.20914"
      y="672.80402">marketing</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="416.49503"
    y="964.84827"
    id="text6595"
@@ -7825,43 +8036,46 @@
      id="tspan6597"
      x="416.49503"
      y="964.84827">support</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
-   x="1233.2612"
-   y="66.234314"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="1350.3765"
+   y="685.88428"
    id="text6599"
-   sodipodi:linespacing="125%"
-   transform="translate(39.340691,613.245)"><tspan
+   sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6601"
-     x="1233.2612"
-     y="66.234314">vibe</tspan></text>
+     x="1350.3765"
+     y="685.88428">vibe</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
-   x="910.46704"
-   y="966.51709"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="965.3667"
+   y="967.43207"
    id="text6603"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6605"
-     x="910.46704"
-     y="966.51709">lounge</tspan></text>
+     x="965.3667"
+     y="967.43207">lounge</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="1100.713"
-   y="966.51715"
+   x="1226.9822"
+   y="684.69897"
    id="text6607"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6609"
-     x="1100.713"
-     y="966.51715">vault</tspan></text>
+     x="1226.9822"
+     y="684.69897">vault</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="43.389435"
    y="458.40805"
    id="text6611"
@@ -7871,9 +8085,10 @@
      id="tspan6613"
      x="43.389435"
      y="458.40805">addons</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="86.067772"
    y="1353.6844"
    id="text6615"
@@ -7882,9 +8097,10 @@
      id="tspan6617"
      x="86.067772"
      y="1353.6844">webapps</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="439.85855"
    y="1069.9843"
    id="text6619"
@@ -7893,9 +8109,10 @@
      id="tspan6621"
      x="439.85855"
      y="1069.9843">platform</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="377.15433"
    y="738.77057"
    id="text6623"
@@ -7906,9 +8123,10 @@
      id="tspan6625"
      x="377.15433"
      y="738.77057">dod</tspan></text>
+
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="492.30319"
    y="748.78351"
    id="text6627"
@@ -7918,6 +8136,7 @@
      id="tspan6629"
      x="492.30319"
      y="748.78351">product</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -7930,6 +8149,7 @@
      id="tspan6633"
      x="559.05615"
      y="1301.1644">s</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Futura;-inkscape-font-specification:Futura Medium"
@@ -7941,6 +8161,7 @@
      id="tspan6597-3"
      x="591.50079"
      y="962.65759">corp</tspan></text>
+
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
@@ -8576,7 +8797,7 @@
        y="860.94971"
        class="room conf" /><rect
        style="display:inline"
-       id="335"
+       id="336"
        width="84.059433"
        height="66.145058"
        x="805.90668"
@@ -8646,7 +8867,7 @@
        y="814.09686"
        class="stairs" /><rect
        style="display:inline"
-       id="340"
+       id="341"
        width="110.93088"
        height="66.834076"
        x="1102.1816"
@@ -8709,14 +8930,14 @@
        y="876.86401"
        class="nothing" /><rect
        style="display:inline"
-       id="348"
+       id="349"
        width="86.126465"
        height="63.389019"
        x="1211.7346"
        y="931.91803"
        class="room conf" /><rect
        style="display:inline"
-       id="336"
+       id="338"
        width="81.992393"
        height="73.035179"
        x="803.83966"
