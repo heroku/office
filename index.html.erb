@@ -14,9 +14,9 @@
   .stairs, .bathroom, .elevator { fill: purple }
   .nothing { fill: black }
 
-  .room:hover {
+  .room:hover, .team:hover {
     cursor: pointer;
-    fill: orange;
+    fill: orange !important;
     fill-opacity: 0.55;
   }
   rect:hover  {
@@ -59,7 +59,7 @@ function addSVGClass(jqEl, className) {
 
 $(function(){
 
-$('.svgholder').on('click touchstart', '.room', function() {
+$('.svgholder').on('click touchstart', '.room, .team', function() {
   $('.selected').each(function() { removeSVGClass($(this), 'selected') })
   addSVGClass($(this), 'selected')
   history.pushState({},'', "#" + this.id)
