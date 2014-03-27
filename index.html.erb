@@ -42,13 +42,19 @@
 
 function removeSVGClass(jqEl, className) {
   var classAttr = jqEl.attr('class');
-  classAttr = classAttr.replace(new RegExp('\\s?' + className), '');
-  jqEl.attr('class', classAttr);
+
+  if (classAttr != undefined) {
+    classAttr = classAttr.replace(new RegExp('\\s?' + className), '');
+    jqEl.attr('class', classAttr);
+  }
 }
 function addSVGClass(jqEl, className) {
   var classAttr = jqEl.attr('class');
-  classAttr = classAttr + (classAttr.length === 0 ? '' : ' ') + className;
-  jqEl.attr('class', classAttr);
+
+  if (classAttr != undefined) {
+    classAttr = classAttr + (classAttr.length === 0 ? '' : ' ') + className;
+    jqEl.attr('class', classAttr);
+  }
 }
 
 $(function(){
