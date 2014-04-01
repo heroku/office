@@ -14,9 +14,9 @@
   .stairs, .bathroom, .elevator { fill: purple }
   .nothing { fill: black }
 
-  .room:hover {
+  .room:hover, .team:hover {
     cursor: pointer;
-    fill: orange;
+    fill: orange !important;
     fill-opacity: 0.55;
   }
   rect:hover  {
@@ -42,18 +42,24 @@
 
 function removeSVGClass(jqEl, className) {
   var classAttr = jqEl.attr('class');
-  classAttr = classAttr.replace(new RegExp('\\s?' + className), '');
-  jqEl.attr('class', classAttr);
+
+  if (classAttr != undefined) {
+    classAttr = classAttr.replace(new RegExp('\\s?' + className), '');
+    jqEl.attr('class', classAttr);
+  }
 }
 function addSVGClass(jqEl, className) {
   var classAttr = jqEl.attr('class');
-  classAttr = classAttr + (classAttr.length === 0 ? '' : ' ') + className;
-  jqEl.attr('class', classAttr);
+
+  if (classAttr != undefined) {
+    classAttr = classAttr + (classAttr.length === 0 ? '' : ' ') + className;
+    jqEl.attr('class', classAttr);
+  }
 }
 
 $(function(){
 
-$('.svgholder').on('click touchstart', '.room', function() {
+$('.svgholder').on('click touchstart', '.room, .team', function() {
   $('.selected').each(function() { removeSVGClass($(this), 'selected') })
   addSVGClass($(this), 'selected')
   history.pushState({},'', "#" + this.id)
