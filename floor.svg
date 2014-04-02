@@ -6297,10 +6297,10 @@
    style="font-size:14.99999714px;display:inline"
    id="text91118"
    x="1398.7185"
-   y="1263.2921"><tspan
+   y="1254.5591"><tspan
      style="font-size:8.74999809px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
      x="1398.7185 1403.3723"
-     y="1263.2921"
+     y="1254.5591"
      sodipodi:role="line"
      id="tspan91120">54</tspan></text>
 
@@ -6312,13 +6312,19 @@
 <text
    style="font-size:14.99999714px;display:inline"
    id="text91122"
-   x="1386.1222"
-   y="1273.7921"><tspan
-     style="font-size:8.74999809px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-     x="1386.1222 1391.7472 1397.8584 1404.4497 1410.5609"
-     y="1273.7921"
+   x="1403.9058"
+   y="1267.6277"><tspan
+     style="font-size:8.74999809px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+     x="1403.9058"
+     y="1267.6277"
      sodipodi:role="line"
-     id="tspan91124">PHONE</tspan></text>
+     id="tspan91124">NURSING</tspan><tspan
+     style="font-size:8.74999809px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+     x="1403.9058"
+     y="1278.5652"
+     sodipodi:role="line"
+     id="tspan11258">ROOM</tspan></text>
+
 
 
 
@@ -6445,10 +6451,10 @@
    style="font-size:14.99999714px;display:inline"
    id="text91114"
    x="1394.0647"
-   y="1263.2921"><tspan
+   y="1254.5592"><tspan
      style="font-size:8.74999809px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
      x="1394.0647"
-     y="1263.2921"
+     y="1254.5592"
      id="tspan91116">2</tspan></text>
 
 
@@ -8069,16 +8075,19 @@
 
 <text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="1226.9822"
-   y="684.69897"
-   id="vault"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="916.53888"
+   y="651.80261"
+   id="product"
    class="team"
-   sodipodi:linespacing="125%"><tspan
+   sodipodi:linespacing="125%"
+   transform="scale(0.9757457,1.0248572)"><tspan
      sodipodi:role="line"
      id="tspan6609"
-     x="1226.9822"
-     y="684.69897">vault</tspan></text>
+     x="916.53888"
+     y="651.80261"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">product</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -8125,7 +8134,7 @@
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="377.15433"
    y="738.77057"
-   id="dod"
+   id="vault"
    class="team"
    sodipodi:linespacing="125%"
    inkscape:transform-center-y="-15.478516"
@@ -8133,7 +8142,8 @@
      sodipodi:role="line"
      id="tspan6625"
      x="377.15433"
-     y="738.77057">dod</tspan></text>
+     y="738.77057">vault</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -8174,6 +8184,89 @@
      id="tspan6597-3"
      x="591.50079"
      y="962.65759">corp</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="978.58618"
+   y="47.601654"
+   id="text10443"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan10445"
+     x="978.58618"
+     y="47.601654" /></text>
+<text
+   xml:space="preserve"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="1010.8809"
+   y="662.38165"
+   id="design"
+   class="team"
+   sodipodi:linespacing="125%"
+   transform="scale(0.99067959,1.0094081)"><tspan
+     sodipodi:role="line"
+     id="tspan10472"
+     x="1010.8809"
+     y="662.38165"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">design</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="918.80243"
+   y="1065.3048"
+   id="remokai"
+   class="team"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan11244"
+     x="918.80243"
+     y="1065.3048"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">remokai</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="1307.163"
+   y="1067.3596"
+   id="dod"
+   class="team"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan11248"
+     x="1307.163"
+     y="1067.3596"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">dod</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="195.20763"
+   y="911.3114"
+   id="matrix2"
+   class="team"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan11252"
+     x="195.20763"
+     y="911.3114"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">matrix</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="178.04085"
+   y="1760.8605"
+   id="matrix1"
+   class="team"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan11256"
+     x="178.04085"
+     y="1760.8605"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">matrix</tspan></text>
 
 </g><g
      inkscape:groupmode="layer"
