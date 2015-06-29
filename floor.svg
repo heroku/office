@@ -5913,13 +5913,25 @@
 
 
 
-
-
-
-
-
-
 <text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="976.93579"
+   y="1361.537"
+   id="vibe"
+   class="team"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6601"
+     x="976.93579"
+     y="1361.537">vibe</tspan></text>
+
+
+
+
+
+
+<!-- <text
    style="font-size:14.99999714px;display:inline"
    id="text90016"
    x="936.93579"
@@ -5929,7 +5941,7 @@
      y="1361.537"
      sodipodi:role="line"
      id="tspan90018">LIBRARY</tspan></text>
-
+ -->
 
 
 
@@ -8203,7 +8215,7 @@
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="66.752975"
+   x="12.752975"
    y="69.571968"
    id="sales1"
    class="team"
@@ -8211,14 +8223,14 @@
    transform="translate(39.340691,613.245)"><tspan
      sodipodi:role="line"
      id="tspan6585"
-     x="66.752975"
-     y="69.571968">sales</tspan></text>
+     x="12.752975"
+     y="69.571968">co-prime sales</tspan></text>
 
 
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="85.110046"
+   x="40.110046"
    y="343.25916"
    id="sales2"
    class="team"
@@ -8226,50 +8238,50 @@
    transform="translate(39.340691,613.245)"><tspan
      sodipodi:role="line"
      id="tspan6589"
-     x="85.110046"
-     y="343.25916">sales</tspan></text>
-
-
-<text
-   xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="453.20914"
-   y="672.80402"
-   id="marketing"
-   class="team"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan6593"
-     x="453.20914"
-     y="672.80402">marketing</tspan></text>
+     x="40.110046"
+     y="343.25916">direct sales</tspan></text>
 
 
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="416.49503"
-   y="964.84827"
+   y="672.80402"
    id="support"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
-     id="tspan6597"
+     id="tspan6593"
      x="416.49503"
-     y="964.84827">support</tspan></text>
+     y="672.80402">support bizops</tspan></text>
 
 
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="1014.5736"
+   x="453.20914"
+   y="964.84827"
+   id="marketing"
+   class="team"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6597"
+     x="453.20914"
+     y="964.84827">marketing</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="914.5736"
    y="965.8725"
-   id="vibe"
+   id="engineering"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6601"
-     x="1014.5736"
-     y="965.8725">vibe</tspan></text>
+     x="914.5736"
+     y="965.8725">engineering</tspan></text>
 
 
 
@@ -8282,14 +8294,28 @@
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="43.389435"
    y="458.40805"
-   id="addons"
+   id="hoteling1"
    class="team"
    sodipodi:linespacing="125%"
    transform="translate(39.340691,613.245)"><tspan
      sodipodi:role="line"
      id="tspan6613"
      x="43.389435"
-     y="458.40805">addons</tspan></text>
+     y="458.40805">hoteling</tspan></text>
+
+<!-- <text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="918.80243"
+   y="1065.3048"
+   id="hoteling3"
+   class="team"
+   sodipodi:linespacing="125%"
+   transform="translate(39.340691,613.245)"><tspan
+     sodipodi:role="line"
+     id="tspan11244"
+     x="918.80243"
+     y="1065.3048">hoteling</tspan></text> -->
 
 
 <text
@@ -8297,13 +8323,13 @@
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="86.067772"
    y="1353.6844"
-   id="webapps"
+   id="security"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6617"
      x="86.067772"
-     y="1353.6844">webapps</tspan></text>
+     y="1353.6844">security   it</tspan></text>
 
 
 <text
@@ -8311,21 +8337,21 @@
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="439.85855"
    y="1069.9843"
-   id="engineering"
+   id="hoteling2"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan6621"
      x="439.85855"
-     y="1069.9843">engineering</tspan></text>
+     y="1069.9843">hoteling</tspan></text>
 
 
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="377.15433"
-   y="738.77057"
-   id="cedar"
+   y="725.77057"
+   id="marketingcloud"
    class="team"
    sodipodi:linespacing="125%"
    inkscape:transform-center-y="-15.478516"
@@ -8333,7 +8359,7 @@
      sodipodi:role="line"
      id="tspan6625"
      x="377.15433"
-     y="738.77057">cedar</tspan></text>
+     y="725.77057">marketing</tspan></text>
 
 
 
@@ -8341,15 +8367,15 @@
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="492.30319"
-   y="748.78351"
-   id="product"
+   y="765.78351"
+   id="marketingcloud2"
    class="team"
    sodipodi:linespacing="125%"
    transform="translate(39.340691,613.245)"><tspan
      sodipodi:role="line"
      id="tspan6629"
      x="492.30319"
-     y="748.78351">product</tspan></text>
+     y="765.78351">cloud</tspan></text>
 
 
 <text
@@ -8366,7 +8392,7 @@
      y="1301.1644">s</tspan></text>
 
 
-<text
+<!-- <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;display:inline;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="591.50079"
@@ -8377,7 +8403,7 @@
      sodipodi:role="line"
      id="tspan6597-3"
      x="591.50079"
-     y="962.65759">corp</tspan></text>
+     y="962.65759">corp</tspan></text> -->
 
 
 
@@ -8397,46 +8423,62 @@
 <text
    xml:space="preserve"
    style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
-   x="984.09644"
+   x="924.09644"
    y="662.38165"
-   id="design"
+   id="engineering1"
    class="team"
    sodipodi:linespacing="125%"
    transform="scale(0.99067959,1.0094081)"><tspan
      sodipodi:role="line"
      id="tspan10472"
-     x="984.09644"
+     x="924.09644"
      y="662.38165"
-     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">design</tspan></text>
-
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">engineering</tspan></text>
 
 <text
    xml:space="preserve"
    style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   x="1250.09644"
+   y="662.38165"
+   id="engineering2"
+   class="team"
+   sodipodi:linespacing="125%"
+   transform="scale(0.99067959,1.0094081)"><tspan
+     sodipodi:role="line"
+     id="tspan10472"
+     x="1250.09644"
+     y="662.38165"
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">engineering</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="918.80243"
    y="1065.3048"
-   id="remokai"
+   id="hoteling3"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan11244"
      x="918.80243"
      y="1065.3048"
-     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">remokai</tspan></text>
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">hoteling</tspan></text>
+
 
 <text
    xml:space="preserve"
    style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
    x="1259.5834"
    y="1066.4446"
-   id="dod"
+   id="hoteling4"
    class="team"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan11248"
      x="1259.5834"
      y="1066.4446"
-     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">dod</tspan></text>
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium">hoteling</tspan></text>
 
 <text
    xml:space="preserve"
@@ -8472,6 +8514,49 @@
 <text
    sodipodi:linespacing="125%"
    class="team"
+   id="library"
+   y="1366.4446"
+   x="1300.8927"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   xml:space="preserve"><tspan
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium"
+     y="1366.4446"
+     x="1300.8927"
+     id="tspan5413"
+     sodipodi:role="line">library</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   class="team"
+   id="connect"
+   y="950.84827"
+   x="1300.8927"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   xml:space="preserve"><tspan
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium"
+     y="950.84827"
+     x="1300.8927"
+     id="tspan5413"
+     sodipodi:role="line">connect</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   class="team"
+   id="product"
+   y="980.84827"
+   x="1300.8927"
+   style="font-size:40.11908722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+   xml:space="preserve"><tspan
+     style="font-size:30.08931541px;font-weight:500;line-height:125%;-inkscape-font-specification:Futura Medium"
+     y="980.84827"
+     x="1300.8927"
+     id="tspan5413"
+     sodipodi:role="line">product</tspan></text>
+
+
+<!-- <text
+   sodipodi:linespacing="125%"
+   class="team"
    id="api"
    y="1066.4446"
    x="1363.8927"
@@ -8481,7 +8566,7 @@
      y="1066.4446"
      x="1363.8927"
      id="tspan5413"
-     sodipodi:role="line">api</tspan></text>
+     sodipodi:role="line">api</tspan></text> -->
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
