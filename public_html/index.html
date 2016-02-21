@@ -78,24 +78,44 @@ var p6  = ' 6 people, tv'
 var p10 = '10 people, tv'
 var ot  = ', open top'
 var cr  = ', chrome box'
+// OLD room numbers
+// var descs = {
+//   100: p6     , 102: p3    , 105: p3
+// , 114: p6     , 115: p10   , 122: p4 , 124: p6 , 125: p10 , 129: '16 people, tv' + cr
+// , 130: p10    , 131: p10   , 201: p3
+
+// , 203: p3     , 206: p6+ot , 207: p3
+// , 210: p3     , 212: p6+ot
+// , 224: p6     , 226: p6    , 227: p4 , 229: p4
+// , 230: p10+cr , 231: p6+ot , 235: p6 , 236: p6
+// , 240: p10+ot , 248: p6+ot
+// , 252: p3
+
+// , 303: p3     , 306: p6    , 307: p3
+// , 310: p3     , 312: p6
+// , 324: p6     , 326: p6    , 327: p4 , 329: p4
+// , 330: p10+cr , 331: p6    , 336: p6 , 338: p6
+// , 341: p10+cr , 349: p6
+// , 352: p3
+// }
 var descs = {
-  100: p6     , 102: p3    , 105: p3
-, 114: p6     , 115: p10   , 122: p4 , 124: p6 , 125: p10 , 129: '16 people, tv' + cr
-, 130: p10    , 131: p10   , 201: p3
+  114: p6     , 100: p3    , 102: p3
+, 104: p6     , 105: p10   , 111: p4 , 110: p6 , 109: p10 , 107: '16 people, tv' + cr
+, 106: p10    , 108: p10   , 229: p3
 
-, 203: p3     , 206: p6+ot , 207: p3
-, 210: p3     , 212: p6+ot
-, 224: p6     , 226: p6    , 227: p4 , 229: p4
-, 230: p10+cr , 231: p6+ot , 235: p6 , 236: p6
-, 240: p10+ot , 248: p6+ot
-, 252: p3
+, 200: p3     , 226: p6+ot , 227: p3
+, 201: p3     , 203: p6+ot
+, 224: p6     , 222: p6    , 221: p4 , 206: p4
+, 204: p10+cr , 217: p6+ot , 207: p6 , 209: p6
+, 216: p10+ot , 211: p6+ot
+, 214: p3
 
-, 303: p3     , 306: p6    , 307: p3
-, 310: p3     , 312: p6
-, 324: p6     , 326: p6    , 327: p4 , 329: p4
-, 330: p10+cr , 331: p6    , 336: p6 , 338: p6
-, 341: p10+cr , 349: p6
-, 352: p3
+, 300: p3     , 326: p6    , 327: p3
+, 301: p3     , 303: p6
+, 324: p6     , 322: p6    , 321: p4 , 306: p4
+, 304: p10+cr , 317: p6    , 307: p6 , 320: p6
+, 316: p10+cr , 311: p6
+, 314: p3
 }
 $('.svgholder').on('mouseover', '.conf', function() {
   document.getElementById('desc').innerText =  this.id + ': ' + descs[this.id]
@@ -5139,25 +5159,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="241.73131"
          y="1165.2944"
-         id="tspan90080">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90082"
-       x="249.16505"
-       y="1165.2944"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="249.16505"
-         y="1165.2944"
-         id="tspan90084">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90086"
-       x="256.59882"
-       y="1165.2944"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="256.59882"
-         y="1165.2944"
-         id="tspan90088">7</tspan></text>
+         id="tspan90080">227</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90090"
@@ -5168,16 +5170,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="1181.7944"
          sodipodi:role="line"
          id="tspan90092">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90870"
-       x="355.31042"
-       y="1057.5461"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="355.31042 362.74417"
-         y="1057.5461"
-         sodipodi:role="line"
-         id="tspan90872">06</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90874"
@@ -5196,30 +5188,17 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="113.30322"
          y="1164.7859"
-         id="tspan90034">2</tspan></text>
+         id="tspan90034">229</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90056"
        x="129.77209"
        y="1212.8062"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="129.77209"
-         y="1212.8062"
-         id="tspan90058">2</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="112.4171 118.04209 124.14835 130.7446 136.85085"
          y="1223.3062"
          sodipodi:role="line"
          id="tspan90060">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90070"
-       x="127.59435"
-       y="1263.1173"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="127.59435"
-         y="1263.1173"
-         id="tspan90072">3</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90074"
@@ -5237,23 +5216,10 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1228.2119"
        y="-216.26744"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1228.2119"
-         y="-216.26744"
-         id="tspan90104">8</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1210.9631 1216.5881 1222.6945 1229.2906 1235.397"
          y="-205.76744"
          sodipodi:role="line"
          id="tspan90106">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90112"
-       x="245.79982"
-       y="1222.5078"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="245.79982"
-         y="1222.5078"
-         id="tspan90114">0</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90122"
@@ -5263,7 +5229,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          sodipodi:role="line"
          id="tspan90124"
          x="217.37869"
-         y="1274.3252">210</tspan></text>
+         y="1274.3252">201</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90126"
@@ -5276,40 +5242,13 @@ $('.svgholder').on('mouseout', '.conf', function() {
          id="tspan90128">CONF</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
-       id="text90036"
-       x="120.73696"
-       y="1164.7859"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="120.73696"
-         y="1164.7859"
-         id="tspan90038">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90040"
-       x="128.17072"
-       y="1164.7859"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="128.17072"
-         y="1164.7859"
-         id="tspan90042">1</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90052"
-       x="125.11835"
-       y="1212.8062"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="125.11835"
-         y="1212.8062"
-         id="tspan90054">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
        id="text90866"
        x="347.87668"
        y="1057.5461"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="347.87668"
          y="1057.5461"
-         id="tspan90868">2</tspan></text>
+         id="tspan90868">226</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90048"
@@ -5318,7 +5257,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="120.46459"
          y="1212.8062"
-         id="tspan90050">2</tspan></text>
+         id="tspan90050">230</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90062"
@@ -5327,26 +5266,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="112.72684"
          y="1263.1173"
-         id="tspan90064">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90066"
-       x="120.16059"
-       y="1263.1173"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="120.16059"
-         y="1263.1173"
-         id="tspan90068">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
-       id="text90098"
-       x="1223.5582"
-       y="-216.26744"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1223.5582"
-         y="-216.26744"
-         id="tspan90100">0</tspan></text>
+         id="tspan90064">200</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -5356,16 +5276,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1218.9044"
          y="-216.26744"
-         id="tspan90096">2</tspan></text>
+         id="tspan90096">228</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90116"
        x="250.45355"
        y="1222.5078"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="250.45355"
-         y="1222.5078"
-         id="tspan90118">9</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="233.20482 238.8298 244.93607 251.5323 257.63855"
          y="1233.0078"
@@ -5379,7 +5295,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="241.14606"
          y="1222.5078"
-         id="tspan90110">2</tspan></text>
+         id="tspan90110">202</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-1.1224288e-5,676.98311)"
        style="display:inline"
@@ -5402,14 +5318,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
 </g><g
        transform="matrix(0,1.2499992,1.2500003,0,-1.1224288e-5,676.98311)"
        style="display:inline"
-       id="g93656"><text
-         id="text90882"
-         transform="matrix(0,1,1,0,293.6944,601.8866)"><tspan
-           id="tspan90884"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.947"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">24</tspan></text>
+       id="g93656">
 <text
          id="text90886"
          transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
@@ -5428,7 +5337,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
            sodipodi:role="line"
            y="0"
            x="0 3.723 7.4460001 11.169"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">225 </tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">223</tspan></text>
 <text
          id="text90894"
          transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
@@ -5445,7 +5354,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="744.92432"
          y="1044.1011"
-         id="tspan90880">2</tspan></text>
+         id="tspan90880">224</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90968"
@@ -5454,17 +5363,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="831.06158"
          y="1042.1106"
-         id="tspan90970">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90972"
-       x="838.4953"
-       y="1042.1106"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="838.4953 845.92908"
-         y="1042.1106"
-         sodipodi:role="line"
-         id="tspan90974">31</tspan></text>
+         id="tspan90970">217</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90976"
@@ -5475,16 +5374,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="1058.6106"
          sodipodi:role="line"
          id="tspan90978">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90902"
-       x="764.8587"
-       y="1109.2017"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="764.8587"
-         y="1109.2017"
-         sodipodi:role="line"
-         id="tspan90904">27</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90906"
@@ -5503,7 +5392,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="757.42493"
          y="1109.2017"
-         id="tspan90900">2</tspan></text>
+         id="tspan90900">221</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-1.1224288e-5,676.98311)"
        style="display:inline"
@@ -5513,15 +5402,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
            id="tspan90912"
            y="0"
            x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">2</tspan></text>
-<text
-         id="text90914"
-         transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
-           id="tspan90916"
-           sodipodi:role="line"
-           y="0"
-           x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">26</tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">222</tspan></text>
 <text
          id="text90918"
          transform="matrix(0,1,1,0,413.6737,565.1873)"><tspan
@@ -5552,15 +5433,10 @@ $('.svgholder').on('mouseout', '.conf', function() {
            id="tspan90982"
            y="0"
            x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">2</tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">218</tspan></text>
 <text
          id="text90984"
          transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
-           id="tspan90986"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.947"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">32</tspan><tspan
            id="tspan90988"
            sodipodi:role="line"
            y="13.2"
@@ -5572,11 +5448,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
        id="g93749"><text
          transform="matrix(0,1,1,0,402.3346,668.6876)"
          id="text90994"><tspan
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 5.947"
-           y="0"
-           sodipodi:role="line"
-           id="tspan90996">33</tspan><tspan
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="-19.959999 -13.408 -5.0190001 2.7539999 10.527 18.916"
            y="13.2"
@@ -5590,18 +5461,11 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="828.4256"
          y="1179.9014"
-         id="tspan90992">2</tspan></text>
+         id="tspan90992">220</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-1.1224288e-5,676.98311)"
        style="display:inline"
-       id="g93760"><text
-         id="text91004"
-         transform="matrix(0,1,1,0,399.4128,723.7346)"><tspan
-           id="tspan91006"
-           sodipodi:role="line"
-           y="0"
-           x="0 3.723"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">34</tspan></text>
+       id="g93760">
 <text
          id="text91008"
          transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
@@ -5618,17 +5482,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="900.01428"
          y="1176.249"
-         id="tspan91002">2</tspan></text>
+         id="tspan91002">219</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90930"
        x="706.75909"
        y="1278.9875"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="706.75909 712.10785"
-         y="1278.9875"
-         sodipodi:role="line"
-         id="tspan90932">28</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="688.68036 694.5791 702.14783 709.15662 716.16534 723.73407"
          y="1290.9875"
@@ -5648,33 +5507,18 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="1357.8297">vibe</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
-       id="text90956"
-       x="738.6377"
-       y="1350.3223"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="738.6377 746.07147"
-         y="1350.3223"
-         sodipodi:role="line"
-         id="tspan90958">30</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
        id="text91012"
        x="836.01642"
        y="1281.0022"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="836.01642"
          y="1281.0022"
-         id="tspan91014">2</tspan></text>
+         id="tspan91014">207</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91016"
        x="843.4502"
        y="1281.0022"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="843.4502 850.88391"
-         y="1281.0022"
-         sodipodi:role="line"
-         id="tspan91018">35</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="828.11646 837.8327 848.31891 858.03516"
          y="1297.5022"
@@ -5688,17 +5532,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="833.78979"
          y="1349.3757"
-         id="tspan91024">2</tspan></text>
+         id="tspan91024">209</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91026"
        x="841.22357"
        y="1349.3757"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="841.22357 848.65729"
-         y="1349.3757"
-         sodipodi:role="line"
-         id="tspan91028">36</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="825.99359 835.70984 846.19604 855.91229"
          y="1365.8757"
@@ -5712,17 +5551,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="904.33307"
          y="1278.9001"
-         id="tspan91034">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91036"
-       x="908.98682"
-       y="1278.9001"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="908.98682 913.64056"
-         y="1278.9001"
-         sodipodi:role="line"
-         id="tspan91038">37</tspan></text>
+         id="tspan91034">208</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91040"
@@ -5742,7 +5571,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="345.19431 352.62805 360.0618"
          y="1352.4469"
          sodipodi:role="line"
-         id="tspan90380">212</tspan></text>
+         id="tspan90380">203</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90382"
@@ -5761,17 +5590,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="701.41034"
          y="1278.9875"
-         id="tspan90928">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90940"
-       x="765.40997"
-       y="1285.2217"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="765.40997 772.84369"
-         y="1285.2217"
-         sodipodi:role="line"
-         id="tspan90942">29</tspan></text>
+         id="tspan90928">205</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90944"
@@ -5790,7 +5609,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="731.20398"
          y="1350.3223"
-         id="tspan90954">2</tspan></text>
+         id="tspan90954">204</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90960"
@@ -5809,7 +5628,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="757.9762"
          y="1285.2217"
-         id="tspan90938">2</tspan></text>
+         id="tspan90938">206</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90948"
@@ -5834,11 +5653,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1203.3225"
        y="1257.7742"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1203.3225 1209.3663"
-         y="1257.7742"
-         sodipodi:role="line"
-         id="tspan91074">45</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1186.3575 1194.8988 1201.5613 1208.2238 1211.14 1219.0513"
          y="1271.2742"
          sodipodi:role="line"
@@ -5851,17 +5665,8 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1245.519"
          y="1358.8585"
-         id="tspan91080">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91082"
-       x="1252.9528"
-       y="1358.8585"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1252.9528 1260.3865"
-         y="1358.8585"
-         sodipodi:role="line"
-         id="tspan91084">48</tspan></text>
+         id="tspan91080">211</tspan></text>
+
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91086"
@@ -5874,16 +5679,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          id="tspan91088">CONF</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
-       id="text91106"
-       x="1381.3088"
-       y="1206.4595"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1381.3088 1385.9625"
-         y="1206.4595"
-         sodipodi:role="line"
-         id="tspan91108">53</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
        id="text91110"
        x="1368.7126"
        y="1216.9595"><tspan
@@ -5892,16 +5687,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="1216.9595"
          sodipodi:role="line"
          id="tspan91112">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91118"
-       x="1398.7185"
-       y="1254.5591"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1398.7185 1403.3723"
-         y="1254.5591"
-         sodipodi:role="line"
-         id="tspan91120">54</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91122"
@@ -5930,16 +5715,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          id="tspan89938">COFFEE/TEA</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
-       id="text91060"
-       x="1223.1698"
-       y="1154.5359"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1223.1698 1227.8236"
-         y="1154.5359"
-         sodipodi:role="line"
-         id="tspan91062">42</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
        id="text91064"
        x="1210.5748"
        y="1165.0359"><tspan
@@ -5956,17 +5731,8 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1197.2787"
          y="1257.7742"
-         id="tspan91070">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91094"
-       x="1390.408"
-       y="1155.9485"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1390.408 1397.8418"
-         y="1155.9485"
-         sodipodi:role="line"
-         id="tspan91096">52</tspan></text>
+         id="tspan91070">210</tspan></text>
+
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91098"
@@ -5985,7 +5751,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1376.6552"
          y="1206.4595"
-         id="tspan91104">2</tspan></text>
+         id="tspan91104">213</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91114"
@@ -5994,17 +5760,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1394.0647"
          y="1254.5592"
-         id="tspan91116">2</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91048"
-       x="1158.6337"
-       y="1043.3928"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1158.6337 1166.0674"
-         y="1043.3928"
-         sodipodi:role="line"
-         id="tspan91050">40</tspan></text>
+         id="tspan91116">212</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91052"
@@ -6023,7 +5779,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1382.9742"
          y="1155.9485"
-         id="tspan91092">2</tspan></text>
+         id="tspan91092">214</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91044"
@@ -6032,7 +5788,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1151.1998"
          y="1043.3928"
-         id="tspan91046">2</tspan></text>
+         id="tspan91046">216</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91056"
@@ -6041,7 +5797,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1218.5161"
          y="1154.5359"
-         id="tspan91058">2</tspan></text>
+         id="tspan91058">215</tspan></text>
 <text
        id="text545870"
        x="730.42755"
@@ -6096,7 +5852,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="639.94733 647.38104 654.81482"
          y="1475.9758"
          sodipodi:role="line"
-         id="tspan546026">125</tspan><tspan
+         id="tspan546026">109</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="632.14984 641.87354 652.35229 662.07605"
          y="1492.4758"
@@ -6172,7 +5928,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="132.2912 136.94495 141.59869"
          y="1575.8478"
          sodipodi:role="line"
-         id="tspan545974">101</tspan><tspan
+         id="tspan545974">113</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="126.99744 132.62245 138.7287 145.32495 151.4312"
          y="1591.8553"
@@ -6197,7 +5953,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="561.41455 568.84833 576.28204"
          y="1722.7057"
          sodipodi:role="line"
-         id="tspan546002">114</tspan><tspan
+         id="tspan546002">104</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="553.51459 563.23083 573.71704 583.43329"
          y="1739.2057"
@@ -6212,7 +5968,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="645.24396 652.67767 660.11145"
          y="1733.0649"
          sodipodi:role="line"
-         id="tspan546008">115</tspan><tspan
+         id="tspan546008">105</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="637.44769 647.16394 657.65021 667.36646"
          y="1749.5649"
@@ -6227,7 +5983,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="837.90234 845.33606 852.76984"
          y="1678.686"
          sodipodi:role="line"
-         id="tspan546032">130</tspan><tspan
+         id="tspan546032">106</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="830.1048 839.82855 850.30731 860.03107"
          y="1695.186"
@@ -6242,7 +5998,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="875.36743 882.80121 890.23492"
          y="1748.2491"
          sodipodi:role="line"
-         id="tspan546038">129</tspan><tspan
+         id="tspan546038">107</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="867.56995 877.2937 887.77246 897.49622"
          y="1764.7491"
@@ -6257,7 +6013,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="85.569191 91.612946 97.656693"
          y="1658.3229"
          sodipodi:role="line"
-         id="tspan545866">102</tspan><tspan
+         id="tspan545866">100</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="79.124191 87.035446 95.576691 103.48794"
          y="1671.8229"
@@ -6287,7 +6043,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="72.961693 80.395439 87.829193"
          y="1568.6003"
          sodipodi:role="line"
-         id="tspan545946">100</tspan></text>
+         id="tspan545946">114</tspan></text>
 <text
        id="text545978"
        x="133.48007"
@@ -6297,7 +6053,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="133.48007 138.13382 142.78757"
          y="1649.5544"
          sodipodi:role="line"
-         id="tspan545980">103</tspan><tspan
+         id="tspan545980">101</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="124.05507 129.68007 135.78632 142.38257 148.48882"
          y="1669.6931"
@@ -6322,7 +6078,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="477.04495 484.4787 491.91245"
          y="1480.6962"
          sodipodi:role="line"
-         id="tspan546014">122</tspan><tspan
+         id="tspan546014">111</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="469.24744 478.97119 489.44995 499.17371"
          y="1497.1962"
@@ -6337,7 +6093,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="554.92957 562.36334 569.79706"
          y="1476.5527"
          sodipodi:role="line"
-         id="tspan546020">124</tspan><tspan
+         id="tspan546020">110</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="547.13208 556.85583 567.33459 577.05835"
          y="1493.0527"
@@ -6352,7 +6108,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="1305.1412 1312.575 1320.0087"
          y="1754.8051"
          sodipodi:role="line"
-         id="tspan546044">131</tspan><tspan
+         id="tspan546044">108</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1297.3438 1307.0674 1317.5461 1327.2699"
          y="1771.3051"
@@ -6367,7 +6123,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="223.15395 230.58769 238.02145"
          y="1669.4603"
          sodipodi:role="line"
-         id="tspan545986">105</tspan></text>
+         id="tspan545986">102</tspan></text>
 <text
        id="text545992"
        x="481.04721"
@@ -6377,7 +6133,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="481.04721 488.48096 495.9147"
          y="1721.8569"
          sodipodi:role="line"
-         id="tspan545994">112</tspan></text>
+         id="tspan545994">103</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90044-1"
@@ -6396,25 +6152,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="241.49432"
          y="770.60126"
-         id="tspan90080-8">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90082-9"
-       x="248.92804"
-       y="770.60126"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="248.92804"
-         y="770.60126"
-         id="tspan90084-9">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90086-9"
-       x="256.36182"
-       y="770.60126"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="256.36182"
-         y="770.60126"
-         id="tspan90088-3">7</tspan></text>
+         id="tspan90080-8">327</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90090-3"
@@ -6425,16 +6163,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="787.10126"
          sodipodi:role="line"
          id="tspan90092-7">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90870-7"
-       x="355.07343"
-       y="662.85297"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="355.07343 362.5072"
-         y="662.85297"
-         sodipodi:role="line"
-         id="tspan90872-3">06</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90874-2"
@@ -6460,23 +6188,10 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="129.5351"
        y="818.11298"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="129.5351"
-         y="818.11298"
-         id="tspan90058-0">2</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="112.18011 117.80511 123.91138 130.50763 136.61383"
          y="828.61298"
          sodipodi:role="line"
          id="tspan90060-6">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90070-0"
-       x="127.35736"
-       y="868.42419"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="127.35736"
-         y="868.42419"
-         id="tspan90072-4">3</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90074-0"
@@ -6494,23 +6209,11 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="833.51868"
        y="-216.0309"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="833.51868"
-         y="-216.0309"
-         id="tspan90104-8">8</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="816.2699 821.8949 828.00122 834.59741 840.70367"
          y="-205.5309"
          sodipodi:role="line"
          id="tspan90106-5">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90112-3"
-       x="245.56281"
-       y="827.81458"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="245.56281"
-         y="827.81458"
-         id="tspan90114-7">0</tspan></text>
+
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90122-6"
@@ -6520,7 +6223,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          sodipodi:role="line"
          id="tspan90124-8"
          x="217.14172"
-         y="879.63208">310</tspan></text>
+         y="879.63208">301</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90126-6"
@@ -6539,25 +6242,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="114.49994"
          y="770.09271"
-         id="tspan90038-8">301</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90040-4"
-       x="127.93372"
-       y="770.09271"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="127.93372"
-         y="770.09271"
-         id="tspan90042-9" /></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90052-7"
-       x="124.88135"
-       y="818.11298"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="124.88135"
-         y="818.11298"
-         id="tspan90054-3">0</tspan></text>
+         id="tspan90038-8">329</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90866-1"
@@ -6566,7 +6251,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="347.63971"
          y="662.85297"
-         id="tspan90868-0">3</tspan></text>
+         id="tspan90868-0">326</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90048-2"
@@ -6575,7 +6260,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="120.2276"
          y="818.11298"
-         id="tspan90050-3">3</tspan></text>
+         id="tspan90050-3">330</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90062-7"
@@ -6584,26 +6269,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="112.48987"
          y="868.42419"
-         id="tspan90064-1">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90066-8"
-       x="119.92358"
-       y="868.42419"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="119.92358"
-         y="868.42419"
-         id="tspan90068-9">0</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
-       id="text90098-3"
-       x="828.86499"
-       y="-216.0309"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="828.86499"
-         y="-216.0309"
-         id="tspan90100-7">0</tspan></text>
+         id="tspan90064-1">300</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        transform="matrix(0,0.99999951,-1.0000005,0,0,0)"
@@ -6613,16 +6279,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="824.21118"
          y="-216.0309"
-         id="tspan90096-8">3</tspan></text>
+         id="tspan90096-8">328</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90116-0"
        x="250.21655"
        y="827.81458"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="250.21655"
-         y="827.81458"
-         id="tspan90118-4">9</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="232.96783 238.59283 244.6991 251.29529 257.40155"
          y="838.31458"
@@ -6636,7 +6298,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="240.90906"
          y="827.81458"
-         id="tspan90110-7">3</tspan></text>
+         id="tspan90110-7">302</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
        style="display:inline"
@@ -6647,7 +6309,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
            sodipodi:role="line"
            x="0 3.723 7.4460001 11.169"
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           y="0">325</tspan></text>
+           y="0">323</tspan></text>
 <text
          id="text90894-0"
          transform="matrix(1,0,0,-1,335.16,566.423)"><tspan
@@ -6666,16 +6328,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="663.91742"
          sodipodi:role="line"
          id="tspan90978-7">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90902-3"
-       x="764.6217"
-       y="714.50848"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="764.6217"
-         y="714.50848"
-         sodipodi:role="line"
-         id="tspan90904-9">27</tspan></text>
+
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90906-7"
@@ -6694,7 +6347,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="757.18793"
          y="714.50848"
-         id="tspan90900-5">3</tspan></text>
+         id="tspan90900-5">321</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
        style="display:inline"
@@ -6704,15 +6357,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
            id="tspan90912-3"
            y="0"
            x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">3</tspan></text>
-<text
-         id="text90914-8"
-         transform="matrix(0,1,1,0,400.4737,577.3783)"><tspan
-           id="tspan90916-5"
-           sodipodi:role="line"
-           y="0"
-           x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">26</tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">322</tspan></text>
 <text
          id="text90918-8"
          transform="matrix(0,1,1,0,413.6737,565.1873)"><tspan
@@ -6720,14 +6365,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
            sodipodi:role="line"
            y="0"
            x="0 7.7729998 16.162001"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">CON</tspan></text>
-<text
-         id="text90922-6"
-         transform="matrix(0,1,1,0,413.6737,589.1223)"><tspan
-           id="tspan90924-0"
-           y="0"
-           x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">F</tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">CONF</tspan></text>
 </g><g
        transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
        style="display:inline"
@@ -6743,15 +6381,10 @@ $('.svgholder').on('mouseout', '.conf', function() {
            id="tspan90982-7"
            y="0"
            x="0"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">3</tspan></text>
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">318</tspan></text>
 <text
          id="text90984-0"
          transform="matrix(0,1,1,0,354.1813,678.3246)"><tspan
-           id="tspan90986-0"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.947"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">32</tspan><tspan
            id="tspan90988-1"
            sodipodi:role="line"
            y="13.2"
@@ -6763,11 +6396,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
        id="g93749-0"><text
          transform="matrix(0,1,1,0,402.3346,668.6876)"
          id="text90994-3"><tspan
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 5.947"
-           y="0"
-           sodipodi:role="line"
-           id="tspan90996-0">33</tspan><tspan
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="-19.959999 -13.408 -5.0190001 2.7539999 10.527 18.916"
            y="13.2"
@@ -6781,18 +6409,11 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="828.1886"
          y="785.20819"
-         id="tspan90992-8">3</tspan></text>
+         id="tspan90992-8">320</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
        style="display:inline"
-       id="g93760-3"><text
-         id="text91004-6"
-         transform="matrix(0,1,1,0,399.4128,723.7346)"><tspan
-           id="tspan91006-0"
-           sodipodi:role="line"
-           y="0"
-           x="0 3.723"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">34</tspan></text>
+       id="g93760-3">
 <text
          id="text91008-4"
          transform="matrix(0,1,1,0,407.8128,713.6586)"><tspan
@@ -6809,32 +6430,17 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="899.77728"
          y="781.55585"
-         id="tspan91002-2">3</tspan></text>
+         id="tspan91002-2">319</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90930-4"
        x="706.52209"
        y="884.29437"><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="706.52209 711.87085"
-         y="884.29437"
-         sodipodi:role="line"
-         id="tspan90932-9">28</tspan><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="688.44336 694.3421 701.91083 708.91962 715.92834 723.49707"
          y="896.29437"
          sodipodi:role="line"
          id="tspan90934-2">LOUNGE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90956-3"
-       x="738.4007"
-       y="955.62921"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="738.4007 745.83447"
-         y="955.62921"
-         sodipodi:role="line"
-         id="tspan90958-0">30</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91012-0"
@@ -6843,17 +6449,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="835.77942"
          y="886.30908"
-         id="tspan91014-3">3</tspan></text>
+         id="tspan91014-3">307</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91016-0"
        x="843.2132"
        y="886.30908"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="843.2132 843.2132"
-         y="886.30908 886.30908"
-         sodipodi:role="line"
-         id="tspan91018-1">336</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="827.87946 837.5957 848.08191 857.79816"
          y="902.80908"
@@ -6867,17 +6468,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="833.5528"
          y="954.68262"
-         id="tspan91024-6">3</tspan></text>
+         id="tspan91024-6">309</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91026-9"
        x="840.98657"
        y="954.68262"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="840.98657"
-         y="954.68262"
-         sodipodi:role="line"
-         id="tspan91028-0">38</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="825.75659 835.47284 845.95905 855.67529"
          y="971.18262"
@@ -6891,17 +6487,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="904.09607"
          y="884.20697"
-         id="tspan91034-4">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91036-4"
-       x="908.74982"
-       y="884.20697"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="908.74982 913.40356"
-         y="884.20697"
-         sodipodi:role="line"
-         id="tspan91038-8">37</tspan></text>
+         id="tspan91034-4">308</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91040-6"
@@ -6921,7 +6507,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          sodipodi:role="line"
          id="tspan90380-1"
          x="344.95734"
-         y="957.75378">312</tspan></text>
+         y="957.75378">303</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90382-0"
@@ -6940,17 +6526,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="701.17334"
          y="884.29437"
-         id="tspan90928-1">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90940-5"
-       x="765.17297"
-       y="890.52863"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="765.17297 772.60669"
-         y="890.52863"
-         sodipodi:role="line"
-         id="tspan90942-0">29</tspan></text>
+         id="tspan90928-1">305</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90944-8"
@@ -6960,7 +6536,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="749.94293 759.65918 770.14545"
          y="907.02863"
          sodipodi:role="line"
-         id="tspan90946-4">CON</tspan></text>
+         id="tspan90946-4">CONF</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90952-9"
@@ -6969,7 +6545,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="730.96698"
          y="955.62921"
-         id="tspan90954-3">3</tspan></text>
+         id="tspan90954-3">304</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90960-0"
@@ -6979,7 +6555,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          x="723.16943 732.89319 743.37195"
          y="972.12921"
          sodipodi:role="line"
-         id="tspan90962-5">CON</tspan></text>
+         id="tspan90962-5">CONF</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90936-2"
@@ -6988,35 +6564,12 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="757.7392"
          y="890.52863"
-         id="tspan90938-3">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90948-8"
-       x="779.86169"
-       y="907.02863"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="779.86169"
-         y="907.02863"
-         id="tspan90950-7">F</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90964-8"
-       x="753.0957"
-       y="972.12921"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="753.0957"
-         y="972.12921"
-         id="tspan90966-0">F</tspan></text>
+         id="tspan90938-3">306</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91072-3"
        x="1203.0854"
        y="863.08112"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1203.0854 1209.1293"
-         y="863.08112"
-         sodipodi:role="line"
-         id="tspan91074-5">45</tspan><tspan
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1186.1205 1194.6619 1201.3242 1207.9868 1210.9031 1218.8142"
          y="876.58112"
@@ -7030,17 +6583,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1245.282"
          y="964.16541"
-         id="tspan91080-3">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91082-2"
-       x="1252.7158"
-       y="964.16541"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1252.7158"
-         y="964.16541"
-         sodipodi:role="line"
-         id="tspan91084-7">49</tspan></text>
+         id="tspan91080-3">311</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91086-1"
@@ -7051,16 +6594,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="980.66528"
          sodipodi:role="line"
          id="tspan91088-0">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91106-0"
-       x="1381.0718"
-       y="811.7663"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1381.0718 1385.7256"
-         y="811.7663"
-         sodipodi:role="line"
-         id="tspan91108-9">53</tspan></text>
+
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91110-7"
@@ -7073,16 +6607,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          id="tspan91112-1">PHONE</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
-       id="text91118-7"
-       x="1398.4814"
-       y="868.599"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1398.4814 1403.1353"
-         y="868.599"
-         sodipodi:role="line"
-         id="tspan91120-4">54</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
        id="text91122-5"
        x="1385.8853"
        y="879.099"><tspan
@@ -7091,16 +6615,6 @@ $('.svgholder').on('mouseout', '.conf', function() {
          y="879.099"
          sodipodi:role="line"
          id="tspan91124-1">PHONE</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91060-5"
-       x="1222.9329"
-       y="759.84271"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1222.9329 1227.5867"
-         y="759.84271"
-         sodipodi:role="line"
-         id="tspan91062-3">42</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91064-0"
@@ -7119,17 +6633,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.24999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1197.0417"
          y="863.08112"
-         id="tspan91070-4">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91094-5"
-       x="1390.171"
-       y="761.25531"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1390.171 1397.6047"
-         y="761.25531"
-         sodipodi:role="line"
-         id="tspan91096-9">52</tspan></text>
+         id="tspan91070-4">310</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91098-3"
@@ -7148,7 +6652,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1376.4182"
          y="811.7663"
-         id="tspan91104-6">3</tspan></text>
+         id="tspan91104-6">313</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91114-4"
@@ -7157,7 +6661,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1393.8276"
          y="868.599"
-         id="tspan91116-0">3</tspan></text>
+         id="tspan91116-0">312</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91052-0"
@@ -7176,7 +6680,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1382.7372"
          y="761.25531"
-         id="tspan91092-9">3</tspan></text>
+         id="tspan91092-9">314</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91056-1"
@@ -7185,18 +6689,11 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1218.2791"
          y="759.84271"
-         id="tspan91058-6">3</tspan></text>
+         id="tspan91058-6">315</tspan></text>
 <g
        transform="matrix(0,1.2499992,1.2500003,0,-0.237,282.28994)"
        style="display:inline"
-       id="g93656-8"><text
-         id="text90882-0"
-         transform="matrix(0,1,1,0,293.6944,601.8866)"><tspan
-           id="tspan90884-6"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.947"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none">24</tspan></text>
+       id="g93656-8">
 <text
          id="text90886-5"
          transform="matrix(0,1,1,0,306.8944,589.6976)"><tspan
@@ -7213,7 +6710,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="744.68732"
          y="649.4079"
-         id="tspan90880-7">3</tspan></text>
+         id="tspan90880-7">324</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90968-5"
@@ -7222,27 +6719,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="830.82458"
          y="647.41742"
-         id="tspan90970-9">3</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text90972-5"
-       x="838.2583"
-       y="647.41742"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="838.2583 845.69208"
-         y="647.41742"
-         sodipodi:role="line"
-         id="tspan90974-3">31</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91048-0"
-       x="1158.3967"
-       y="648.69965"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1158.3967"
-         y="648.69965"
-         sodipodi:role="line"
-         id="tspan91050-6">41</tspan></text>
+         id="tspan90970-9">317</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91044-8"
@@ -7251,7 +6728,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1150.9629"
          y="648.69965"
-         id="tspan91046-1">3</tspan></text>
+         id="tspan91046-1">316</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text89974-8"
@@ -7536,38 +7013,38 @@ $('.svgholder').on('mouseout', '.conf', function() {
      inkscape:label="trace"
      style="display:inline"
      transform="translate(-39.340691,-613.245)"><rect
-       id="201"
+       id="229"
        width="55.120937"
        height="64.767036"
        x="96.461632"
        y="1132.9988"
        class="room conf" /><rect
-       id="202"
+       id="230"
        width="44.785767"
        height="35.139565"
        x="-147.4485"
        y="1199.8329"
        transform="scale(-1,1)"
        class="room phone" /><rect
-       id="203"
+       id="200"
        width="53.053902"
        height="64.078026"
        x="97.150642"
        y="1237.7285"
        class="room conf" /><rect
-       id="207"
+       id="227"
        width="51.67588"
        height="66.834076"
        x="226.68484"
        y="1135.0659"
        class="room conf" /><rect
-       id="209"
+       id="202"
        width="42.029716"
        height="46.852753"
        x="227.37386"
        y="1205.3451"
        class="room phone" /><rect
-       id="210"
+       id="201"
        width="61.322041"
        height="51.675831"
        x="197.05734"
@@ -7579,7 +7056,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="152.27158"
        y="1149.5352"
        class="stairs" /><rect
-       id="206"
+       id="226"
        width="86.126465"
        height="72.346169"
        x="314.1893"
@@ -7634,67 +7111,67 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="611.84235"
        y="1250.8198"
        class="elevator" /><rect
-       id="226"
+       id="222"
        width="85.437454"
        height="70.279129"
        x="684.18866"
        y="1146.7791"
        class="room conf" /><rect
-       id="228"
+       id="205"
        width="55.120937"
        height="72.346169"
        x="684.18866"
        y="1244.6187"
        class="room lounge" /><rect
-       id="229"
+       id="206"
        width="65.600876"
        height="59.254955"
        x="739.9986"
        y="1255.6428"
        class="room conf" /><rect
-       id="235"
+       id="207"
        width="84.059433"
        height="66.145058"
        x="806.14368"
        y="1250.1306"
        class="room conf" /><rect
-       id="237"
+       id="208"
        width="37.895645"
        height="44.096706"
        x="892.2702"
        y="1261.1549"
        class="room phone" /><rect
-       id="234"
+       id="219"
        width="50.297852"
        height="50.297806"
        x="880.55701"
        y="1159.1813"
        class="room phone" /><rect
-       id="233"
+       id="220"
        width="75.79129"
        height="58.565941"
        x="806.14368"
        y="1159.8704"
        class="room lounge" /><rect
-       id="232"
+       id="218"
        width="96.461586"
        height="64.767044"
        x="805.45465"
        y="1092.3472"
        class="room lounge" /><rect
-       id="231"
+       id="217"
        width="84.059448"
        height="73.724197"
        x="802.69861"
        y="1017.934"
        class="room conf" /><rect
-       id="227"
+       id="221"
        width="66.834137"
        height="59.943966"
        x="736.55353"
        y="1086.8351"
        class="room conf" /><rect
-       id="225"
+       id="223"
        width="41.340702"
        height="59.943966"
        x="694.5238"
@@ -7712,7 +7189,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="963.23834"
        y="1208.79"
        class="stairs" /><rect
-       id="240"
+       id="216"
        width="110.93088"
        height="66.834076"
        x="1102.4187"
@@ -7736,7 +7213,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1269.1595"
        y="1228.7715"
        class="stairs" /><rect
-       id="245"
+       id="210"
        width="65.456108"
        height="53.053852"
        x="1174.0759"
@@ -7748,25 +7225,25 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1209.2155"
        y="1183.9857"
        class="nothing" /><rect
-       id="242"
+       id="215"
        width="31.694538"
        height="46.163742"
        x="1209.2155"
        y="1135.0659"
        class="room phone" /><rect
-       id="252"
+       id="214"
        width="63.389076"
        height="53.053852"
        x="1362.1761"
        y="1134.377"
        class="room conf" /><rect
-       id="253"
+       id="213"
        width="50.297852"
        height="38.05386"
        x="1365.5542"
        y="1189.4978"
        class="room phone" /><rect
-       id="254"
+       id="212"
        width="42.718727"
        height="58.986813"
        x="1382.1575"
@@ -7778,25 +7255,25 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1299.5431"
        y="1271.5571"
        class="nothing" /><rect
-       id="248"
+       id="211"
        width="86.126465"
        height="63.389019"
        x="1211.9716"
        y="1326.6111"
        class="room conf" /><rect
-       id="236"
+       id="209"
        width="81.992393"
        height="73.035179"
        x="804.07666"
        y="1316.9648"
        class="room conf" /><rect
-       id="230"
+       id="204"
        width="110.24187"
        height="71.65715"
        x="694.5238"
        y="1318.3428"
        class="room conf" /><rect
-       id="212"
+       id="203"
        width="85.437454"
        height="63.389019"
        x="311.43326"
@@ -7808,7 +7285,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        height="372.755"
        x="41.340691"
        y="1017.245" /><rect
-       id="208"
+       id="228"
        width="31.694538"
        height="45.474731"
        x="194.99031"
@@ -7820,13 +7297,13 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="1242.0004"
        y="1244.9827"
        class="nothing" /><rect
-       id="100"
+       id="114"
        width="76"
        height="70"
        x="43.340691"
        y="1533.9293"
        class="room conf" /><rect
-       id="101"
+       id="113"
        width="31"
        height="49"
        x="122.34069"
@@ -7844,43 +7321,43 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="156.00737"
        y="1576.9293"
        class="stairs" /><rect
-       id="102"
+       id="100"
        width="53"
        height="68"
        x="69.340691"
        y="1625.9293"
        class="room conf" /><rect
-       id="103"
+       id="101"
        width="29"
        height="59"
        x="124.67403"
        y="1625.9293"
        class="room phone" /><rect
-       id="105"
+       id="102"
        width="65"
        height="53"
        x="201.3407"
        y="1650.9293"
        class="room conf" /><rect
-       id="122"
+       id="111"
        width="69"
        height="61"
        x="456.76227"
        y="1447.5078"
        class="room conf" /><rect
-       id="112"
+       id="103"
        width="72"
        height="59"
        x="452.7684"
        y="1695.3571"
        class="room lounge" /><rect
-       id="114"
+       id="104"
        width="85"
        height="68"
        x="528.3407"
        y="1695.3571"
        class="room conf" /><rect
-       id="115"
+       id="105"
        width="77"
        height="93"
        x="616.3407"
@@ -7910,13 +7387,13 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="491.3407"
        y="1599.9293"
        class="bathroom" /><rect
-       id="124"
+       id="110"
        width="86"
        height="66"
        x="527.76227"
        y="1442.5078"
        class="room conf" /><rect
-       id="125"
+       id="109"
        width="80"
        height="95.138481"
        x="615.76227"
@@ -7940,19 +7417,19 @@ $('.svgholder').on('mouseout', '.conf', function() {
        x="457.8407"
        y="1510.9293"
        class="room misc" /><rect
-       id="130"
+       id="106"
        width="84"
        height="58"
        x="812.3407"
        y="1649.9293"
        class="room conf" /><rect
-       id="129"
+       id="107"
        width="143"
        height="79"
        x="812.3407"
        y="1710.9293"
        class="room conf" /><rect
-       id="131"
+       id="108"
        width="87"
        height="61"
        x="1272.196"
@@ -8029,14 +7506,14 @@ $('.svgholder').on('mouseout', '.conf', function() {
        id="path619852"
        inkscape:connector-curvature="0" /><rect
        style="display:inline"
-       id="301"
+       id="329"
        width="55.120937"
        height="64.767036"
        x="94.090546"
        y="738.3056"
        class="room conf" /><rect
        style="display:inline"
-       id="302"
+       id="330"
        width="44.785767"
        height="35.139565"
        x="-149.21149"
@@ -8044,28 +7521,28 @@ $('.svgholder').on('mouseout', '.conf', function() {
        transform="scale(-1,1)"
        class="room phone" /><rect
        style="display:inline"
-       id="303"
+       id="300"
        width="53.053902"
        height="64.078026"
        x="96.157585"
        y="843.03528"
        class="room conf" /><rect
        style="display:inline"
-       id="307"
+       id="327"
        width="51.67588"
        height="66.834076"
        x="223.49069"
        y="740.37274"
        class="room conf" /><rect
        style="display:inline"
-       id="309"
+       id="302"
        width="42.029716"
        height="46.852753"
        x="233.13687"
        y="809.96295"
        class="room phone" /><rect
        style="display:inline"
-       id="310"
+       id="301"
        width="61.322041"
        height="51.675831"
        x="197.81229"
@@ -8079,7 +7556,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="754.84198"
        class="stairs" /><rect
        style="display:inline"
-       id="306"
+       id="326"
        width="86.126465"
        height="72.346169"
        x="313.95233"
@@ -8143,77 +7620,77 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="856.12671"
        class="elevator" /><rect
        style="display:inline"
-       id="326"
+       id="322"
        width="85.437454"
        height="70.279129"
        x="683.95166"
        y="754.08588"
        class="room conf" /><rect
        style="display:inline"
-       id="328"
+       id="305"
        width="55.120937"
        height="72.346169"
        x="683.95166"
        y="847.92548"
        class="room lounge" /><rect
        style="display:inline"
-       id="329"
+       id="306"
        width="64.088745"
        height="59.254955"
        x="741.27374"
        y="860.94971"
        class="room conf" /><rect
        style="display:inline"
-       id="336"
+       id="307"
        width="84.059433"
        height="64.632927"
        x="807.83966"
        y="855.4375"
        class="room conf" /><rect
        style="display:inline"
-       id="337"
+       id="308"
        width="37.895645"
        height="44.096706"
        x="894.0332"
        y="855.4375"
        class="room phone" /><rect
        style="display:inline"
-       id="334"
+       id="319"
        width="50.297852"
        height="50.297806"
        x="883.17542"
        y="764.4881"
        class="room phone" /><rect
        style="display:inline"
-       id="333"
+       id="320"
        width="75.79129"
        height="58.565941"
        x="805.11639"
        y="764.4881"
        class="room lounge" /><rect
        style="display:inline"
-       id="332"
+       id="318"
        width="96.461586"
        height="70.210716"
        x="805.11639"
        y="691.68958"
        class="room lounge" /><rect
        style="display:inline"
-       id="331"
+       id="317"
        width="81.035187"
        height="65.861107"
        x="805.11639"
        y="623.24072"
        class="room conf" /><rect
        style="display:inline"
-       id="327"
+       id="321"
        width="66.834137"
        height="60.017345"
        x="736.31653"
        y="691.45294"
        class="room conf" /><rect
        style="display:inline"
-       id="325"
+       id="323"
        width="41.340702"
        height="59.943966"
        x="692.2868"
@@ -8234,7 +7711,7 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="814.09686"
        class="stairs" /><rect
        style="display:inline"
-       id="341"
+       id="316"
        width="110.93088"
        height="66.834076"
        x="1102.1816"
@@ -8262,28 +7739,28 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="832.76727"
        class="stairs" /><rect
        style="display:inline"
-       id="345"
+       id="310"
        width="65.456108"
        height="53.053852"
        x="1173.8389"
        y="844.41351"
        class="room office" /><rect
        style="display:inline"
-       id="352"
+       id="314"
        width="63.389076"
        height="53.053852"
        x="1363.3171"
        y="739.68378"
        class="room conf" /><rect
        style="display:inline"
-       id="353"
+       id="313"
        width="50.297852"
        height="35.487686"
        x="1363.3171"
        y="794.80463"
        class="room phone" /><rect
        style="display:inline"
-       id="354"
+       id="312"
        width="42.718727"
        height="58.986813"
        x="1381.9204"
@@ -8297,28 +7774,28 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="876.86401"
        class="nothing" /><rect
        style="display:inline"
-       id="349"
+       id="311"
        width="86.126465"
        height="63.389019"
        x="1211.7346"
        y="931.91803"
        class="room conf" /><rect
        style="display:inline"
-       id="338"
+       id="309"
        width="81.992393"
        height="71.523048"
        x="807.83966"
        y="923.78387"
        class="room conf" /><rect
        style="display:inline"
-       id="312"
+       id="303"
        width="85.437454"
        height="63.389019"
        x="311.19629"
        y="927.78381"
        class="room conf" /><rect
        style="display:inline"
-       id="308"
+       id="328"
        width="31.694538"
        height="47.185513"
        x="197.81229"
@@ -8339,14 +7816,14 @@ $('.svgholder').on('mouseout', '.conf', function() {
        y="789.29254"
        class="nothing" /><rect
        style="display:inline"
-       id="342"
+       id="315"
        width="32.122234"
        height="46.805286"
        x="1208.9785"
        y="739.7312"
        class="room phone" /><rect
        style="display:inline"
-       id="330"
+       id="304"
        width="110.24187"
        height="71.65715"
        x="695.12061"
