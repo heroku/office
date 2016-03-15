@@ -8,6 +8,6 @@
 
   ],
   "buildpacks": [
-
+    { "url": "https://github.com/hone/heroku-buildpack-static.git" }
   ]
 }
