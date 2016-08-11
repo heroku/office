@@ -1,0 +1,5 @@
+{
+  "root": "public_html",
+  "clean_urls": false,
+  "error_page": "error.html"
+}
