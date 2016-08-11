@@ -4462,16 +4462,17 @@
      id="namedview3006"
      showgrid="false"
      inkscape:zoom="0.82540529"
-     inkscape:cx="766.6747"
-     inkscape:cy="914.34576"
+     inkscape:cx="696.40619"
+     inkscape:cy="865.88472"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" /><g
+     fit-margin-bottom="0"
+     showguides="false" /><g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="trace"
@@ -5117,7 +5118,7 @@
        height="44.096706"
        x="894.0332"
        y="855.4375"
-       class="room phone" /><rect
+       class="misc nothing" /><rect
        style="display:inline"
        id="319"
        width="50.297852"
@@ -7142,7 +7143,7 @@
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.74999714px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="833.5528"
          y="954.68262"
-         id="tspan91024-6">309</tspan></text>
+         id="tspan91024-6">308</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text91026-9"
@@ -7153,25 +7154,6 @@
          y="971.18262"
          sodipodi:role="line"
          id="tspan91030-1">CONF</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91032-6"
-       x="904.09607"
-       y="884.20697"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="904.09607"
-         y="884.20697"
-         id="tspan91034-4">308</tspan></text>
-<text
-       style="font-size:14.99999714px;display:inline"
-       id="text91040-6"
-       x="896.15479"
-       y="894.70697"><tspan
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999809px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="896.15479 901.77979 907.88605 914.4823 920.58856"
-         y="894.70697"
-         sodipodi:role="line"
-         id="tspan91042-1">PHONE</tspan></text>
 <text
        style="font-size:14.99999714px;display:inline"
        id="text90378-8"
@@ -7549,7 +7531,7 @@
 <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:100%;font-family:Futura;-inkscape-font-specification:'Futura, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
-       x="924.09644"
+       x="939.99445"
        y="668.52881"
        id="engineering1"
        class="team"
@@ -7557,7 +7539,7 @@
        transform="scale(0.99067959,1.0094081)"><tspan
          sodipodi:role="line"
          id="tspan10472"
-         x="924.09644"
+         x="939.99445"
          y="668.52881"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:100%;font-family:Futura;-inkscape-font-specification:'Futura, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">heroku eng</tspan></text>
 <text
