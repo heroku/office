@@ -4462,8 +4462,8 @@
      id="namedview3006"
      showgrid="false"
      inkscape:zoom="0.82540529"
-     inkscape:cx="696.40619"
-     inkscape:cy="865.88472"
+     inkscape:cx="890.25036"
+     inkscape:cy="1059.7289"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -5113,7 +5113,7 @@
        y="855.4375"
        class="room conf" /><rect
        style="display:inline"
-       id="308"
+       id="rect11536"
        width="37.895645"
        height="44.096706"
        x="894.0332"
@@ -5246,7 +5246,7 @@
        y="931.91803"
        class="room conf" /><rect
        style="display:inline"
-       id="309"
+       id="308"
        width="81.992393"
        height="71.523048"
        x="807.83966"
@@ -7504,18 +7504,6 @@
          id="tspan11491"
          x="415.89017"
          y="1358.9757">steelbrick / sfdc IQ</tspan></text>
-<text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="559.05615"
-       y="1301.1644"
-       id="text6631"
-       sodipodi:linespacing="125%"
-       transform="translate(39.340691,613.245)"><tspan
-         sodipodi:role="line"
-         id="tspan6633"
-         x="559.05615"
-         y="1301.1644">s</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
